@@ -1,0 +1,2029 @@
+Popped key: <Transition at t=0, gate a1 -> 1>
+Popped key: <Transition at t=0, gate a10 -> 1>
+Popped key: <Transition at t=0, gate a11 -> 1>
+Popped key: <Transition at t=0, gate a12 -> 1>
+Popped key: <Transition at t=0, gate a13 -> 1>
+Popped key: <Transition at t=0, gate a2 -> 1>
+Popped key: <Transition at t=0, gate a3 -> 1>
+Popped key: <Transition at t=0, gate a4 -> 1>
+Popped key: <Transition at t=0, gate a5 -> 1>
+Popped key: <Transition at t=0, gate a6 -> 1>
+Popped key: <Transition at t=0, gate a7 -> 1>
+Popped key: <Transition at t=0, gate a8 -> 1>
+Popped key: <Transition at t=0, gate a9 -> 1>
+Popped key: <Transition at t=0, gate b1 -> 1>
+Popped key: <Transition at t=0, gate b10 -> 1>
+Popped key: <Transition at t=0, gate b11 -> 1>
+Popped key: <Transition at t=0, gate b12 -> 1>
+Popped key: <Transition at t=0, gate b13 -> 1>
+Popped key: <Transition at t=0, gate b2 -> 1>
+Popped key: <Transition at t=0, gate b3 -> 1>
+Popped key: <Transition at t=0, gate b4 -> 1>
+Popped key: <Transition at t=0, gate b5 -> 1>
+Popped key: <Transition at t=0, gate b6 -> 1>
+Popped key: <Transition at t=0, gate b7 -> 1>
+Popped key: <Transition at t=0, gate b8 -> 1>
+Popped key: <Transition at t=0, gate b9 -> 1>
+Popped key: <Transition at t=0, gate z0 -> 0>
+Popped key: <Transition at t=1, gate y1 -> 0>
+Popped key: <Transition at t=1, gate y11 -> 0>
+Popped key: <Transition at t=1, gate y13 -> 0>
+Popped key: <Transition at t=1, gate y12 -> 0>
+Popped key: <Transition at t=1, gate y5 -> 0>
+Popped key: <Transition at t=1, gate y6 -> 0>
+Popped key: <Transition at t=1, gate y4 -> 0>
+Popped key: <Transition at t=1, gate y8 -> 0>
+Popped key: <Transition at t=1, gate y2 -> 0>
+Popped key: <Transition at t=1, gate y3 -> 0>
+Popped key: <Transition at t=1, gate y9 -> 0>
+Popped key: <Transition at t=10, gate z0 -> 1>
+Popped key: <Transition at t=1, gate y7 -> 0>
+Popped key: <Transition at t=2000, gate x1 -> 0>
+Popped key: <Transition at t=2010, gate x1 -> 1>
+Popped key: <Transition at t=1, gate y10 -> 0>
+Popped key: <Transition at t=4000, gate z0 -> 0>
+Popped key: <Transition at t=4000, gate x2 -> 0>
+Popped key: <Transition at t=11, gate y1 -> 1>
+Popped key: <Transition at t=2011, gate z1 -> 1>
+Popped key: <Transition at t=12, gate z1 -> 0>
+Popped key: <Transition at t=2012, gate y2 -> 1>
+Popped key: <Transition at t=13, gate y2 -> 0>
+Popped key: <Transition at t=2013, gate z2 -> 1>
+Popped key: <Transition at t=14, gate z2 -> 0>
+Popped key: <Transition at t=2014, gate y3 -> 1>
+Popped key: <Transition at t=15, gate y3 -> 0>
+Popped key: <Transition at t=2015, gate z3 -> 1>
+Popped key: <Transition at t=16, gate z3 -> 0>
+Popped key: <Transition at t=2016, gate y4 -> 1>
+Popped key: <Transition at t=17, gate y4 -> 0>
+Popped key: <Transition at t=2017, gate z4 -> 1>
+Popped key: <Transition at t=18, gate z4 -> 0>
+Popped key: <Transition at t=4001, gate y1 -> 0>
+Popped key: <Transition at t=19, gate y5 -> 0>
+Popped key: <Transition at t=4002, gate z1 -> 1>
+Popped key: <Transition at t=4012, gate x2 -> 0>
+Popped key: <Transition at t=4003, gate y2 -> 1>
+Popped key: <Transition at t=6000, gate x1 -> 0>
+Popped key: <Transition at t=4004, gate z2 -> 1>
+Popped key: <Transition at t=6001, gate z1 -> 0>
+Popped key: <Transition at t=4005, gate y3 -> 1>
+Popped key: <Transition at t=4006, gate z3 -> 1>
+Popped key: <Transition at t=6002, gate y2 -> 0>
+Popped key: <Transition at t=4007, gate y4 -> 1>
+Popped key: <Transition at t=6003, gate z2 -> 0>
+Popped key: <Transition at t=4008, gate z4 -> 1>
+Popped key: <Transition at t=6011, gate x2 -> 1>
+Popped key: <Transition at t=4009, gate y5 -> 1>
+Popped key: <Transition at t=6012, gate z2 -> 1>
+Popped key: <Transition at t=4010, gate z5 -> 1>
+Popped key: <Transition at t=6013, gate y3 -> 1>
+Popped key: <Transition at t=4011, gate y6 -> 1>
+Popped key: <Transition at t=8000, gate x3 -> 0>
+Popped key: <Transition at t=4012, gate z6 -> 1>
+Popped key: <Transition at t=8002, gate x2 -> 1>
+Popped key: <Transition at t=8014, gate x3 -> 0>
+Popped key: <Transition at t=10013, gate x3 -> 1>
+Popped key: <Transition at t=2018, gate y5 -> 1>
+Popped key: <Transition at t=10001, gate x2 -> 0>
+Popped key: <Transition at t=10014, gate z3 -> 0>
+Popped key: <Transition at t=10002, gate z2 -> 0>
+Popped key: <Transition at t=10015, gate y4 -> 0>
+Popped key: <Transition at t=10003, gate y3 -> 0>
+Popped key: <Transition at t=10016, gate z4 -> 0>
+Popped key: <Transition at t=10004, gate z3 -> 1>
+Popped key: <Transition at t=12004, gate x3 -> 1>
+Popped key: <Transition at t=10005, gate y4 -> 1>
+Popped key: <Transition at t=14003, gate x3 -> 0>
+Popped key: <Transition at t=10017, gate y5 -> 0>
+Popped key: <Transition at t=14004, gate z3 -> 0>
+Popped key: <Transition at t=10018, gate z5 -> 0>
+Popped key: <Transition at t=14005, gate y4 -> 0>
+Popped key: <Transition at t=4013, gate y7 -> 1>
+Popped key: <Transition at t=10006, gate z4 -> 1>
+Popped key: <Transition at t=10019, gate y6 -> 0>
+Popped key: <Transition at t=10007, gate y5 -> 1>
+Popped key: <Transition at t=10020, gate z6 -> 0>
+Popped key: <Transition at t=10008, gate z5 -> 1>
+Popped key: <Transition at t=4014, gate z7 -> 1>
+Popped key: <Transition at t=10009, gate y6 -> 1>
+Popped key: <Transition at t=10021, gate y7 -> 0>
+Popped key: <Transition at t=10010, gate z6 -> 1>
+Popped key: <Transition at t=10022, gate z7 -> 0>
+Popped key: <Transition at t=10011, gate y7 -> 1>
+Popped key: <Transition at t=14006, gate z4 -> 0>
+Popped key: <Transition at t=6004, gate y3 -> 0>
+Popped key: <Transition at t=14007, gate y5 -> 0>
+Popped key: <Transition at t=14012, gate x3 -> 1>
+Popped key: <Transition at t=14008, gate z5 -> 0>
+Popped key: <Transition at t=14013, gate z3 -> 1>
+Popped key: <Transition at t=14009, gate y6 -> 0>
+Popped key: <Transition at t=16000, gate x4 -> 0>
+Popped key: <Transition at t=14014, gate y4 -> 1>
+Popped key: <Transition at t=10012, gate z7 -> 1>
+Popped key: <Transition at t=14015, gate z4 -> 1>
+Popped key: <Transition at t=14010, gate z6 -> 0>
+Popped key: <Transition at t=14011, gate y7 -> 0>
+Popped key: <Transition at t=14012, gate z7 -> 0>
+Popped key: <Transition at t=14016, gate y5 -> 1>
+Popped key: <Transition at t=14013, gate y8 -> 0>
+Popped key: <Transition at t=14017, gate z5 -> 1>
+Popped key: <Transition at t=10013, gate y8 -> 1>
+Popped key: <Transition at t=14018, gate y6 -> 1>
+Popped key: <Transition at t=10014, gate z8 -> 1>
+Popped key: <Transition at t=14019, gate z6 -> 1>
+Popped key: <Transition at t=10023, gate y8 -> 0>
+Popped key: <Transition at t=14020, gate y7 -> 1>
+Popped key: <Transition at t=10024, gate z8 -> 0>
+Popped key: <Transition at t=14021, gate z7 -> 1>
+Popped key: <Transition at t=16016, gate x4 -> 0>
+Popped key: <Transition at t=14022, gate y8 -> 1>
+Popped key: <Transition at t=18002, gate x3 -> 0>
+Popped key: <Transition at t=10025, gate y9 -> 0>
+Popped key: <Transition at t=18015, gate x4 -> 1>
+Popped key: <Transition at t=14023, gate z8 -> 1>
+Popped key: <Transition at t=18003, gate z3 -> 0>
+Popped key: <Transition at t=14024, gate y9 -> 1>
+Popped key: <Transition at t=18004, gate y4 -> 0>
+Popped key: <Transition at t=14025, gate z9 -> 1>
+Popped key: <Transition at t=18005, gate z4 -> 1>
+Popped key: <Transition at t=18016, gate z4 -> 0>
+Popped key: <Transition at t=20006, gate x4 -> 1>
+Popped key: <Transition at t=18017, gate y5 -> 0>
+Popped key: <Transition at t=26004, gate x4 -> 1>
+Popped key: <Transition at t=18018, gate z5 -> 0>
+Popped key: <Transition at t=26014, gate x4 -> 0>
+Popped key: <Transition at t=18019, gate y6 -> 0>
+Popped key: <Transition at t=26015, gate z4 -> 0>
+Popped key: <Transition at t=18020, gate z6 -> 0>
+Popped key: <Transition at t=30004, gate x4 -> 0>
+Popped key: <Transition at t=18021, gate y7 -> 0>
+Popped key: <Transition at t=10015, gate y9 -> 1>
+Popped key: <Transition at t=30013, gate x4 -> 1>
+Popped key: <Transition at t=14026, gate y10 -> 1>
+Popped key: <Transition at t=18022, gate z7 -> 0>
+Popped key: <Transition at t=14027, gate z10 -> 1>
+Popped key: <Transition at t=18023, gate y8 -> 0>
+Popped key: <Transition at t=14028, gate y11 -> 1>
+Popped key: <Transition at t=18024, gate z8 -> 0>
+Popped key: <Transition at t=14029, gate z11 -> 1>
+Popped key: <Transition at t=18025, gate y9 -> 0>
+Popped key: <Transition at t=14030, gate y12 -> 1>
+Popped key: <Transition at t=18026, gate z9 -> 0>
+Popped key: <Transition at t=14031, gate z12 -> 1>
+Popped key: <Transition at t=18027, gate y10 -> 0>
+Popped key: <Transition at t=14032, gate y13 -> 1>
+Popped key: <Transition at t=18028, gate z10 -> 0>
+Popped key: <Transition at t=14033, gate z13 -> 1>
+Popped key: <Transition at t=30014, gate z4 -> 1>
+Popped key: <Transition at t=32000, gate x5 -> 0>
+Popped key: <Transition at t=30015, gate y5 -> 1>
+Popped key: <Transition at t=32018, gate x5 -> 0>
+Popped key: <Transition at t=30016, gate z5 -> 1>
+Popped key: <Transition at t=18029, gate y11 -> 0>
+Popped key: <Transition at t=30017, gate y6 -> 1>
+Popped key: <Transition at t=18030, gate z11 -> 0>
+Popped key: <Transition at t=30018, gate z6 -> 1>
+Popped key: <Transition at t=34003, gate x4 -> 0>
+Popped key: <Transition at t=30019, gate y7 -> 1>
+Popped key: <Transition at t=34004, gate z4 -> 0>
+Popped key: <Transition at t=30020, gate z7 -> 1>
+Popped key: <Transition at t=34017, gate x5 -> 1>
+Popped key: <Transition at t=30021, gate y8 -> 1>
+Popped key: <Transition at t=34018, gate z5 -> 0>
+Popped key: <Transition at t=30022, gate z8 -> 1>
+Popped key: <Transition at t=36008, gate x5 -> 1>
+Popped key: <Transition at t=30023, gate y9 -> 1>
+Popped key: <Transition at t=42006, gate x5 -> 1>
+Popped key: <Transition at t=34019, gate y6 -> 0>
+Popped key: <Transition at t=18031, gate y12 -> 0>
+Popped key: <Transition at t=30024, gate z9 -> 1>
+Popped key: <Transition at t=18032, gate z12 -> 0>
+Popped key: <Transition at t=34005, gate y5 -> 0>
+Popped key: <Transition at t=18033, gate y13 -> 0>
+Popped key: <Transition at t=34006, gate z5 -> 1>
+Popped key: <Transition at t=18034, gate z13 -> 0>
+Popped key: <Transition at t=30025, gate y10 -> 1>
+Popped key: <Transition at t=34007, gate y6 -> 1>
+Popped key: <Transition at t=30026, gate z10 -> 1>
+Popped key: <Transition at t=34008, gate z6 -> 1>
+Popped key: <Transition at t=30027, gate y11 -> 1>
+Popped key: <Transition at t=34020, gate z6 -> 0>
+Popped key: <Transition at t=30028, gate z11 -> 1>
+Popped key: <Transition at t=4015, gate y8 -> 1>
+Popped key: <Transition at t=30029, gate y12 -> 1>
+Popped key: <Transition at t=34021, gate y7 -> 0>
+Popped key: <Transition at t=30030, gate z12 -> 1>
+Popped key: <Transition at t=34022, gate z7 -> 0>
+Popped key: <Transition at t=30031, gate y13 -> 1>
+Popped key: <Transition at t=42016, gate x5 -> 0>
+Popped key: <Transition at t=34023, gate y8 -> 0>
+Popped key: <Transition at t=42017, gate z5 -> 0>
+Popped key: <Transition at t=34024, gate z8 -> 0>
+Popped key: <Transition at t=42018, gate y6 -> 0>
+Popped key: <Transition at t=46006, gate x5 -> 0>
+Popped key: <Transition at t=46015, gate x5 -> 1>
+Popped key: <Transition at t=50016, gate x5 -> 0>
+Popped key: <Transition at t=46016, gate z5 -> 1>
+Popped key: <Transition at t=50017, gate z5 -> 0>
+Popped key: <Transition at t=46017, gate y6 -> 1>
+Popped key: <Transition at t=50018, gate y6 -> 0>
+Popped key: <Transition at t=46018, gate z6 -> 1>
+Popped key: <Transition at t=50019, gate z6 -> 0>
+Popped key: <Transition at t=62014, gate x5 -> 1>
+Popped key: <Transition at t=50020, gate y7 -> 0>
+Popped key: <Transition at t=62015, gate z5 -> 1>
+Popped key: <Transition at t=64000, gate x6 -> 0>
+Popped key: <Transition at t=62016, gate y6 -> 1>
+Popped key: <Transition at t=34025, gate y9 -> 0>
+Popped key: <Transition at t=42019, gate z6 -> 0>
+Popped key: <Transition at t=46019, gate y7 -> 1>
+Popped key: <Transition at t=34026, gate z9 -> 0>
+Popped key: <Transition at t=46020, gate z7 -> 1>
+Popped key: <Transition at t=34027, gate y10 -> 0>
+Popped key: <Transition at t=46021, gate y8 -> 1>
+Popped key: <Transition at t=34028, gate z10 -> 0>
+Popped key: <Transition at t=34029, gate y11 -> 0>
+Popped key: <Transition at t=34030, gate z11 -> 0>
+Popped key: <Transition at t=46022, gate z8 -> 1>
+Popped key: <Transition at t=34031, gate y12 -> 0>
+Popped key: <Transition at t=62017, gate z6 -> 1>
+Popped key: <Transition at t=46023, gate y9 -> 1>
+Popped key: <Transition at t=62018, gate y7 -> 1>
+Popped key: <Transition at t=46024, gate z9 -> 1>
+Popped key: <Transition at t=66004, gate x5 -> 0>
+Popped key: <Transition at t=46025, gate y10 -> 1>
+Popped key: <Transition at t=66005, gate z5 -> 0>
+Popped key: <Transition at t=46026, gate z10 -> 1>
+Popped key: <Transition at t=68010, gate x6 -> 1>
+Popped key: <Transition at t=46027, gate y11 -> 1>
+Popped key: <Transition at t=68011, gate z6 -> 0>
+Popped key: <Transition at t=46028, gate z11 -> 1>
+Popped key: <Transition at t=74008, gate x6 -> 1>
+Popped key: <Transition at t=46029, gate y12 -> 1>
+Popped key: <Transition at t=74018, gate x6 -> 0>
+Popped key: <Transition at t=78008, gate x6 -> 0>
+Popped key: <Transition at t=74019, gate z6 -> 1>
+Popped key: <Transition at t=78017, gate x6 -> 1>
+Popped key: <Transition at t=74020, gate y7 -> 1>
+Popped key: <Transition at t=78018, gate z6 -> 0>
+Popped key: <Transition at t=82018, gate x6 -> 0>
+Popped key: <Transition at t=78019, gate y7 -> 0>
+Popped key: <Transition at t=82019, gate z6 -> 1>
+Popped key: <Transition at t=78020, gate z7 -> 0>
+Popped key: <Transition at t=82020, gate y7 -> 1>
+Popped key: <Transition at t=30032, gate z13 -> 1>
+Popped key: <Transition at t=94016, gate x6 -> 1>
+Popped key: <Transition at t=98006, gate x6 -> 1>
+Popped key: <Transition at t=94017, gate z6 -> 0>
+Popped key: <Transition at t=98018, gate x6 -> 0>
+Popped key: <Transition at t=94018, gate y7 -> 0>
+Popped key: <Transition at t=98019, gate z6 -> 1>
+Popped key: <Transition at t=94019, gate z7 -> 0>
+Popped key: <Transition at t=106017, gate x6 -> 0>
+Popped key: <Transition at t=110016, gate x6 -> 1>
+Popped key: <Transition at t=114017, gate x6 -> 0>
+Popped key: <Transition at t=110017, gate z6 -> 0>
+Popped key: <Transition at t=114018, gate z6 -> 1>
+Popped key: <Transition at t=110018, gate y7 -> 0>
+Popped key: <Transition at t=114019, gate y7 -> 1>
+Popped key: <Transition at t=126015, gate x6 -> 1>
+Popped key: <Transition at t=114020, gate z7 -> 1>
+Popped key: <Transition at t=126016, gate z6 -> 0>
+Popped key: <Transition at t=114021, gate y8 -> 1>
+Popped key: <Transition at t=126017, gate y7 -> 0>
+Popped key: <Transition at t=128000, gate x7 -> 0>
+Popped key: <Transition at t=126018, gate z7 -> 0>
+Popped key: <Transition at t=66006, gate y6 -> 0>
+Popped key: <Transition at t=126019, gate y8 -> 0>
+Popped key: <Transition at t=98020, gate y7 -> 1>
+Popped key: <Transition at t=126020, gate z8 -> 0>
+Popped key: <Transition at t=98021, gate z7 -> 1>
+Popped key: <Transition at t=126021, gate y9 -> 0>
+Popped key: <Transition at t=46030, gate z12 -> 1>
+Popped key: <Transition at t=126022, gate z9 -> 0>
+Popped key: <Transition at t=66007, gate z6 -> 1>
+Popped key: <Transition at t=126023, gate y10 -> 0>
+Popped key: <Transition at t=66008, gate y7 -> 1>
+Popped key: <Transition at t=126024, gate z10 -> 0>
+Popped key: <Transition at t=68012, gate y7 -> 0>
+Popped key: <Transition at t=126025, gate y11 -> 0>
+Popped key: <Transition at t=68013, gate z7 -> 0>
+Popped key: <Transition at t=126026, gate z11 -> 0>
+Popped key: <Transition at t=68014, gate y8 -> 0>
+Popped key: <Transition at t=126027, gate y12 -> 0>
+Popped key: <Transition at t=78021, gate y8 -> 0>
+Popped key: <Transition at t=132012, gate x7 -> 1>
+Popped key: <Transition at t=82021, gate z7 -> 1>
+Popped key: <Transition at t=98022, gate y8 -> 1>
+Popped key: <Transition at t=82022, gate y8 -> 1>
+Popped key: <Transition at t=132013, gate z7 -> 1>
+Popped key: <Transition at t=138010, gate x7 -> 1>
+Popped key: <Transition at t=98023, gate z8 -> 1>
+Popped key: <Transition at t=126028, gate z12 -> 0>
+Popped key: <Transition at t=138020, gate x7 -> 0>
+Popped key: <Transition at t=126029, gate y13 -> 0>
+Popped key: <Transition at t=138021, gate z7 -> 0>
+Popped key: <Transition at t=126030, gate z13 -> 0>
+Popped key: <Transition at t=142010, gate x7 -> 0>
+Popped key: <Transition at t=142019, gate x7 -> 1>
+Popped key: <Transition at t=146020, gate x7 -> 0>
+Popped key: <Transition at t=142020, gate z7 -> 1>
+Popped key: <Transition at t=146021, gate z7 -> 0>
+Popped key: <Transition at t=142021, gate y8 -> 1>
+Popped key: <Transition at t=158018, gate x7 -> 1>
+Popped key: <Transition at t=174018, gate x7 -> 1>
+Popped key: <Transition at t=158019, gate z7 -> 1>
+Popped key: <Transition at t=178019, gate x7 -> 0>
+Popped key: <Transition at t=158020, gate y8 -> 1>
+Popped key: <Transition at t=178020, gate z7 -> 0>
+Popped key: <Transition at t=190017, gate x7 -> 1>
+Popped key: <Transition at t=178021, gate y8 -> 0>
+Popped key: <Transition at t=190018, gate z7 -> 1>
+Popped key: <Transition at t=178022, gate z8 -> 0>
+Popped key: <Transition at t=190019, gate y8 -> 1>
+Popped key: <Transition at t=178023, gate y9 -> 0>
+Popped key: <Transition at t=190020, gate z8 -> 1>
+Popped key: <Transition at t=194007, gate x7 -> 1>
+Popped key: <Transition at t=190021, gate y9 -> 1>
+Popped key: <Transition at t=196011, gate x7 -> 0>
+Popped key: <Transition at t=190022, gate z9 -> 1>
+Popped key: <Transition at t=196012, gate z7 -> 0>
+Popped key: <Transition at t=190023, gate y10 -> 1>
+Popped key: <Transition at t=202019, gate x7 -> 1>
+Popped key: <Transition at t=196013, gate y8 -> 0>
+Popped key: <Transition at t=202020, gate z7 -> 1>
+Popped key: <Transition at t=196014, gate z8 -> 0>
+Popped key: <Transition at t=196015, gate y9 -> 0>
+Popped key: <Transition at t=196016, gate z9 -> 0>
+Popped key: <Transition at t=202021, gate y8 -> 1>
+Popped key: <Transition at t=196017, gate y10 -> 0>
+Popped key: <Transition at t=202022, gate z8 -> 1>
+Popped key: <Transition at t=196018, gate z10 -> 0>
+Popped key: <Transition at t=210019, gate x7 -> 1>
+Popped key: <Transition at t=222017, gate x7 -> 0>
+Popped key: <Transition at t=202023, gate y9 -> 1>
+Popped key: <Transition at t=202024, gate z9 -> 1>
+Popped key: <Transition at t=222018, gate z7 -> 0>
+Popped key: <Transition at t=202025, gate y10 -> 1>
+Popped key: <Transition at t=226019, gate x7 -> 1>
+Popped key: <Transition at t=34032, gate z12 -> 0>
+Popped key: <Transition at t=226020, gate z7 -> 1>
+Popped key: <Transition at t=130005, gate x6 -> 0>
+Popped key: <Transition at t=226021, gate y8 -> 1>
+Popped key: <Transition at t=202026, gate z10 -> 1>
+Popped key: <Transition at t=238017, gate x7 -> 0>
+Popped key: <Transition at t=202027, gate y11 -> 1>
+Popped key: <Transition at t=238018, gate z7 -> 0>
+Popped key: <Transition at t=202028, gate z11 -> 1>
+Popped key: <Transition at t=238019, gate y8 -> 0>
+Popped key: <Transition at t=242018, gate x7 -> 1>
+Popped key: <Transition at t=254016, gate x7 -> 0>
+Popped key: <Transition at t=242019, gate z7 -> 1>
+Popped key: <Transition at t=254017, gate z7 -> 0>
+Popped key: <Transition at t=242020, gate y8 -> 1>
+Popped key: <Transition at t=206018, gate x7 -> 0>
+Popped key: <Transition at t=254018, gate y8 -> 0>
+Popped key: <Transition at t=138022, gate y8 -> 0>
+Popped key: <Transition at t=254019, gate z8 -> 0>
+Popped key: <Transition at t=146022, gate y8 -> 0>
+Popped key: <Transition at t=254020, gate y9 -> 0>
+Popped key: <Transition at t=190024, gate z10 -> 1>
+Popped key: <Transition at t=254021, gate z9 -> 0>
+Popped key: <Transition at t=256000, gate x8 -> 0>
+Popped key: <Transition at t=254022, gate y10 -> 0>
+Popped key: <Transition at t=260014, gate x8 -> 1>
+Popped key: <Transition at t=254023, gate z10 -> 0>
+Popped key: <Transition at t=260015, gate z8 -> 1>
+Popped key: <Transition at t=254024, gate y11 -> 0>
+Popped key: <Transition at t=260016, gate y9 -> 1>
+Popped key: <Transition at t=254025, gate z11 -> 0>
+Popped key: <Transition at t=260017, gate z9 -> 1>
+Popped key: <Transition at t=254026, gate y12 -> 0>
+Popped key: <Transition at t=260018, gate y10 -> 1>
+Popped key: <Transition at t=266012, gate x8 -> 1>
+Popped key: <Transition at t=260019, gate z10 -> 1>
+Popped key: <Transition at t=266022, gate x8 -> 0>
+Popped key: <Transition at t=260020, gate y11 -> 1>
+Popped key: <Transition at t=266023, gate z8 -> 0>
+Popped key: <Transition at t=260021, gate z11 -> 1>
+Popped key: <Transition at t=266024, gate y9 -> 0>
+Popped key: <Transition at t=260022, gate y12 -> 1>
+Popped key: <Transition at t=266025, gate z9 -> 0>
+Popped key: <Transition at t=260023, gate z12 -> 1>
+Popped key: <Transition at t=266026, gate y10 -> 0>
+Popped key: <Transition at t=270012, gate x8 -> 0>
+Popped key: <Transition at t=266027, gate z10 -> 0>
+Popped key: <Transition at t=202029, gate y12 -> 1>
+Popped key: <Transition at t=222019, gate y8 -> 0>
+Popped key: <Transition at t=266028, gate y11 -> 0>
+Popped key: <Transition at t=130006, gate z6 -> 0>
+Popped key: <Transition at t=238020, gate z8 -> 0>
+Popped key: <Transition at t=130007, gate y7 -> 0>
+Popped key: <Transition at t=242021, gate z8 -> 1>
+Popped key: <Transition at t=258006, gate x7 -> 0>
+Popped key: <Transition at t=260024, gate y13 -> 1>
+Popped key: <Transition at t=242022, gate y9 -> 1>
+Popped key: <Transition at t=260025, gate z13 -> 1>
+Popped key: <Transition at t=242023, gate z9 -> 1>
+Popped key: <Transition at t=266029, gate z11 -> 0>
+Popped key: <Transition at t=242024, gate y10 -> 1>
+Popped key: <Transition at t=266030, gate y12 -> 0>
+Popped key: <Transition at t=242025, gate z10 -> 1>
+Popped key: <Transition at t=266031, gate z12 -> 0>
+Popped key: <Transition at t=242026, gate y11 -> 1>
+Popped key: <Transition at t=270021, gate x8 -> 1>
+Popped key: <Transition at t=266032, gate y13 -> 0>
+Popped key: <Transition at t=270022, gate z8 -> 1>
+Popped key: <Transition at t=266033, gate z13 -> 0>
+Popped key: <Transition at t=274022, gate x8 -> 0>
+Popped key: <Transition at t=98024, gate y9 -> 1>
+Popped key: <Transition at t=286020, gate x8 -> 1>
+Popped key: <Transition at t=302020, gate x8 -> 1>
+Popped key: <Transition at t=286021, gate z8 -> 1>
+Popped key: <Transition at t=324013, gate x8 -> 0>
+Popped key: <Transition at t=334020, gate x8 -> 0>
+Popped key: <Transition at t=324014, gate z8 -> 0>
+Popped key: <Transition at t=338021, gate x8 -> 1>
+Popped key: <Transition at t=324015, gate y9 -> 0>
+Popped key: <Transition at t=338022, gate z8 -> 1>
+Popped key: <Transition at t=324016, gate z9 -> 0>
+Popped key: <Transition at t=354021, gate x8 -> 1>
+Popped key: <Transition at t=324017, gate y10 -> 0>
+Popped key: <Transition at t=370020, gate x8 -> 1>
+Popped key: <Transition at t=338023, gate y9 -> 1>
+Popped key: <Transition at t=242027, gate z11 -> 1>
+Popped key: <Transition at t=274023, gate z8 -> 0>
+Popped key: <Transition at t=324018, gate z10 -> 0>
+Popped key: <Transition at t=274024, gate y9 -> 0>
+Popped key: <Transition at t=324019, gate y11 -> 0>
+Popped key: <Transition at t=274025, gate z9 -> 0>
+Popped key: <Transition at t=338024, gate z9 -> 1>
+Popped key: <Transition at t=324020, gate z11 -> 0>
+Popped key: <Transition at t=338025, gate y10 -> 1>
+Popped key: <Transition at t=324021, gate y12 -> 0>
+Popped key: <Transition at t=338026, gate z10 -> 1>
+Popped key: <Transition at t=382018, gate x8 -> 0>
+Popped key: <Transition at t=338027, gate y11 -> 1>
+Popped key: <Transition at t=382019, gate z8 -> 0>
+Popped key: <Transition at t=338028, gate z11 -> 1>
+Popped key: <Transition at t=394021, gate x8 -> 0>
+Popped key: <Transition at t=338029, gate y12 -> 1>
+Popped key: <Transition at t=398020, gate x8 -> 1>
+Popped key: <Transition at t=402021, gate x8 -> 0>
+Popped key: <Transition at t=414019, gate x8 -> 1>
+Popped key: <Transition at t=434020, gate x8 -> 0>
+Popped key: <Transition at t=414020, gate z8 -> 1>
+Popped key: <Transition at t=434021, gate z8 -> 0>
+Popped key: <Transition at t=414021, gate y9 -> 1>
+Popped key: <Transition at t=446018, gate x8 -> 1>
+Popped key: <Transition at t=434022, gate y9 -> 0>
+Popped key: <Transition at t=446019, gate z8 -> 1>
+Popped key: <Transition at t=434023, gate z9 -> 0>
+Popped key: <Transition at t=446020, gate y9 -> 1>
+Popped key: <Transition at t=452012, gate x8 -> 0>
+Popped key: <Transition at t=458020, gate x8 -> 1>
+Popped key: <Transition at t=452013, gate z8 -> 0>
+Popped key: <Transition at t=458021, gate z8 -> 1>
+Popped key: <Transition at t=452014, gate y9 -> 0>
+Popped key: <Transition at t=478018, gate x8 -> 0>
+Popped key: <Transition at t=458022, gate y9 -> 1>
+Popped key: <Transition at t=478019, gate z8 -> 0>
+Popped key: <Transition at t=458023, gate z9 -> 1>
+Popped key: <Transition at t=458024, gate y10 -> 1>
+Popped key: <Transition at t=478020, gate y9 -> 0>
+Popped key: <Transition at t=242028, gate y12 -> 1>
+Popped key: <Transition at t=478021, gate z9 -> 0>
+Popped key: <Transition at t=338030, gate z12 -> 1>
+Popped key: <Transition at t=338031, gate y13 -> 1>
+Popped key: <Transition at t=338032, gate z13 -> 1>
+Popped key: <Transition at t=398021, gate z8 -> 1>
+Popped key: <Transition at t=398022, gate y9 -> 1>
+Popped key: <Transition at t=398023, gate z9 -> 1>
+Popped key: <Transition at t=402022, gate z8 -> 0>
+Popped key: <Transition at t=398024, gate y10 -> 1>
+Popped key: <Transition at t=414022, gate z9 -> 1>
+Popped key: <Transition at t=434024, gate y10 -> 0>
+Popped key: <Transition at t=402023, gate y9 -> 0>
+Popped key: <Transition at t=402024, gate z9 -> 0>
+Popped key: <Transition at t=434025, gate z10 -> 0>
+Popped key: <Transition at t=402025, gate y10 -> 0>
+Popped key: <Transition at t=446021, gate z9 -> 1>
+Popped key: <Transition at t=452015, gate z9 -> 0>
+Popped key: <Transition at t=478022, gate y10 -> 0>
+Popped key: <Transition at t=452016, gate y10 -> 0>
+Popped key: <Transition at t=482020, gate x8 -> 1>
+Popped key: <Transition at t=494018, gate x8 -> 0>
+Popped key: <Transition at t=482021, gate z8 -> 1>
+Popped key: <Transition at t=494019, gate z8 -> 0>
+Popped key: <Transition at t=482022, gate y9 -> 1>
+Popped key: <Transition at t=494020, gate y9 -> 0>
+Popped key: <Transition at t=482023, gate z9 -> 1>
+Popped key: <Transition at t=494021, gate z9 -> 0>
+Popped key: <Transition at t=498019, gate x8 -> 1>
+Popped key: <Transition at t=494022, gate y10 -> 0>
+Popped key: <Transition at t=498020, gate z8 -> 1>
+Popped key: <Transition at t=510017, gate x8 -> 0>
+Popped key: <Transition at t=498021, gate y9 -> 1>
+Popped key: <Transition at t=510018, gate z8 -> 0>
+Popped key: <Transition at t=498022, gate z9 -> 1>
+Popped key: <Transition at t=512000, gate x9 -> 0>
+Popped key: <Transition at t=498023, gate y10 -> 1>
+Popped key: <Transition at t=522014, gate x9 -> 1>
+Popped key: <Transition at t=510019, gate y9 -> 0>
+Popped key: <Transition at t=522015, gate z9 -> 0>
+Popped key: <Transition at t=510020, gate z9 -> 1>
+Popped key: <Transition at t=522016, gate y10 -> 0>
+Popped key: <Transition at t=522024, gate x9 -> 0>
+Popped key: <Transition at t=526023, gate x9 -> 1>
+Popped key: <Transition at t=530024, gate x9 -> 0>
+Popped key: <Transition at t=526024, gate z9 -> 1>
+Popped key: <Transition at t=530025, gate z9 -> 0>
+Popped key: <Transition at t=434026, gate y11 -> 0>
+Popped key: <Transition at t=446022, gate y10 -> 1>
+Popped key: <Transition at t=482024, gate y10 -> 1>
+Popped key: <Transition at t=498024, gate z10 -> 1>
+Popped key: <Transition at t=434027, gate z11 -> 0>
+Popped key: <Transition at t=446023, gate z10 -> 1>
+Popped key: <Transition at t=434028, gate y12 -> 0>
+Popped key: <Transition at t=290022, gate x8 -> 0>
+Popped key: <Transition at t=498025, gate y11 -> 1>
+Popped key: <Transition at t=162020, gate x7 -> 0>
+Popped key: <Transition at t=434029, gate z12 -> 0>
+Popped key: <Transition at t=498026, gate z11 -> 1>
+Popped key: <Transition at t=434030, gate y13 -> 0>
+Popped key: <Transition at t=510021, gate y10 -> 1>
+Popped key: <Transition at t=498027, gate y12 -> 1>
+Popped key: <Transition at t=434031, gate z13 -> 0>
+Popped key: <Transition at t=498028, gate z12 -> 1>
+Popped key: <Transition at t=522017, gate z10 -> 0>
+Popped key: <Transition at t=498029, gate y13 -> 1>
+Popped key: <Transition at t=522025, gate z9 -> 0>
+Popped key: <Transition at t=522018, gate y11 -> 0>
+Popped key: <Transition at t=498030, gate z13 -> 1>
+Popped key: <Transition at t=522019, gate z11 -> 0>
+Popped key: <Transition at t=530026, gate y10 -> 0>
+Popped key: <Transition at t=522020, gate y12 -> 0>
+Popped key: <Transition at t=530027, gate z10 -> 0>
+Popped key: <Transition at t=522021, gate z12 -> 0>
+Popped key: <Transition at t=542022, gate x9 -> 1>
+Popped key: <Transition at t=522022, gate y13 -> 0>
+Popped key: <Transition at t=542023, gate z9 -> 1>
+Popped key: <Transition at t=522023, gate z13 -> 0>
+Popped key: <Transition at t=546024, gate x9 -> 0>
+Popped key: <Transition at t=610023, gate x9 -> 1>
+Popped key: <Transition at t=546025, gate z9 -> 0>
+Popped key: <Transition at t=610024, gate z9 -> 1>
+Popped key: <Transition at t=638020, gate x9 -> 0>
+Popped key: <Transition at t=610025, gate y10 -> 1>
+Popped key: <Transition at t=638021, gate z9 -> 0>
+Popped key: <Transition at t=610026, gate z10 -> 1>
+Popped key: <Transition at t=690022, gate x9 -> 0>
+Popped key: <Transition at t=610027, gate y11 -> 1>
+Popped key: <Transition at t=702020, gate x9 -> 1>
+Popped key: <Transition at t=638022, gate y10 -> 0>
+Popped key: <Transition at t=702021, gate z9 -> 1>
+Popped key: <Transition at t=638023, gate z10 -> 0>
+Popped key: <Transition at t=702022, gate y10 -> 1>
+Popped key: <Transition at t=708014, gate x9 -> 0>
+Popped key: <Transition at t=714022, gate x9 -> 1>
+Popped key: <Transition at t=708015, gate z9 -> 0>
+Popped key: <Transition at t=714023, gate z9 -> 1>
+Popped key: <Transition at t=708016, gate y10 -> 0>
+Popped key: <Transition at t=754021, gate x9 -> 1>
+Popped key: <Transition at t=714024, gate y10 -> 1>
+Popped key: <Transition at t=766019, gate x9 -> 0>
+Popped key: <Transition at t=714025, gate z10 -> 1>
+Popped key: <Transition at t=766020, gate z9 -> 0>
+Popped key: <Transition at t=714026, gate y11 -> 1>
+Popped key: <Transition at t=766021, gate y10 -> 0>
+Popped key: <Transition at t=772015, gate x9 -> 1>
+Popped key: <Transition at t=766022, gate z10 -> 0>
+Popped key: <Transition at t=772016, gate z9 -> 1>
+Popped key: <Transition at t=766023, gate y11 -> 0>
+Popped key: <Transition at t=778023, gate x9 -> 0>
+Popped key: <Transition at t=786023, gate x9 -> 0>
+Popped key: <Transition at t=836014, gate x9 -> 0>
+Popped key: <Transition at t=850022, gate x9 -> 1>
+Popped key: <Transition at t=910021, gate x9 -> 1>
+Popped key: <Transition at t=850023, gate z9 -> 1>
+Popped key: <Transition at t=914022, gate x9 -> 0>
+Popped key: <Transition at t=926020, gate x9 -> 1>
+Popped key: <Transition at t=914023, gate z9 -> 0>
+Popped key: <Transition at t=926021, gate z9 -> 1>
+Popped key: <Transition at t=914024, gate y10 -> 0>
+Popped key: <Transition at t=926022, gate y10 -> 1>
+Popped key: <Transition at t=946021, gate x9 -> 0>
+Popped key: <Transition at t=926023, gate z10 -> 1>
+Popped key: <Transition at t=946022, gate z9 -> 0>
+Popped key: <Transition at t=926024, gate y11 -> 1>
+Popped key: <Transition at t=946023, gate y10 -> 0>
+Popped key: <Transition at t=926025, gate z11 -> 1>
+Popped key: <Transition at t=946024, gate z10 -> 0>
+Popped key: <Transition at t=958019, gate x9 -> 1>
+Popped key: <Transition at t=946025, gate y11 -> 0>
+Popped key: <Transition at t=958020, gate z9 -> 1>
+Popped key: <Transition at t=946026, gate z11 -> 0>
+Popped key: <Transition at t=964013, gate x9 -> 0>
+Popped key: <Transition at t=946027, gate y12 -> 0>
+Popped key: <Transition at t=964014, gate z9 -> 0>
+Popped key: <Transition at t=970021, gate x9 -> 1>
+Popped key: <Transition at t=964015, gate y10 -> 0>
+Popped key: <Transition at t=970022, gate z9 -> 1>
+Popped key: <Transition at t=990019, gate x9 -> 0>
+Popped key: <Transition at t=970023, gate y10 -> 1>
+Popped key: <Transition at t=990020, gate z9 -> 0>
+Popped key: <Transition at t=970024, gate z10 -> 1>
+Popped key: <Transition at t=542024, gate y10 -> 1>
+Popped key: <Transition at t=546026, gate y10 -> 0>
+Popped key: <Transition at t=610028, gate z11 -> 1>
+Popped key: <Transition at t=638024, gate y11 -> 0>
+Popped key: <Transition at t=610029, gate y12 -> 1>
+Popped key: <Transition at t=702023, gate z10 -> 1>
+Popped key: <Transition at t=708017, gate z10 -> 0>
+Popped key: <Transition at t=546027, gate z10 -> 0>
+Popped key: <Transition at t=610030, gate z12 -> 1>
+Popped key: <Transition at t=708018, gate y11 -> 0>
+Popped key: <Transition at t=766024, gate z11 -> 0>
+Popped key: <Transition at t=610031, gate y13 -> 1>
+Popped key: <Transition at t=772017, gate y10 -> 1>
+Popped key: <Transition at t=610032, gate z13 -> 1>
+Popped key: <Transition at t=766025, gate y12 -> 0>
+Popped key: <Transition at t=772018, gate z10 -> 1>
+Popped key: <Transition at t=766026, gate z12 -> 0>
+Popped key: <Transition at t=778024, gate z9 -> 0>
+Popped key: <Transition at t=766027, gate y13 -> 0>
+Popped key: <Transition at t=772019, gate y11 -> 1>
+Popped key: <Transition at t=926026, gate y12 -> 1>
+Popped key: <Transition at t=958021, gate y10 -> 1>
+Popped key: <Transition at t=766028, gate z13 -> 0>
+Popped key: <Transition at t=772020, gate z11 -> 1>
+Popped key: <Transition at t=926027, gate z12 -> 1>
+Popped key: <Transition at t=772021, gate y12 -> 1>
+Popped key: <Transition at t=970025, gate y11 -> 1>
+Popped key: <Transition at t=990021, gate y10 -> 0>
+Popped key: <Transition at t=1006019, gate x9 -> 0>
+Popped key: <Transition at t=1010020, gate x9 -> 1>
+Popped key: <Transition at t=1022018, gate x9 -> 0>
+Popped key: <Transition at t=1010021, gate z9 -> 1>
+Popped key: <Transition at t=1022019, gate z9 -> 0>
+Popped key: <Transition at t=1010022, gate y10 -> 1>
+Popped key: <Transition at t=1022020, gate y10 -> 0>
+Popped key: <Transition at t=1010023, gate z10 -> 1>
+Popped key: <Transition at t=1022021, gate z10 -> 0>
+Popped key: <Transition at t=1024000, gate x10 -> 0>
+Popped key: <Transition at t=1022022, gate y11 -> 0>
+Popped key: <Transition at t=1038025, gate x10 -> 1>
+Popped key: <Transition at t=1022023, gate z11 -> 0>
+Popped key: <Transition at t=1038026, gate z10 -> 1>
+Popped key: <Transition at t=1022024, gate y12 -> 0>
+Popped key: <Transition at t=1042026, gate x10 -> 0>
+Popped key: <Transition at t=1038027, gate y11 -> 1>
+Popped key: <Transition at t=1042027, gate z10 -> 0>
+Popped key: <Transition at t=1038028, gate z11 -> 1>
+Popped key: <Transition at t=1042028, gate y11 -> 0>
+Popped key: <Transition at t=1054024, gate x10 -> 1>
+Popped key: <Transition at t=1042029, gate z11 -> 0>
+Popped key: <Transition at t=1054025, gate z10 -> 1>
+Popped key: <Transition at t=1042030, gate y12 -> 0>
+Popped key: <Transition at t=1054026, gate y11 -> 1>
+Popped key: <Transition at t=1058026, gate x10 -> 0>
+Popped key: <Transition at t=1054027, gate z11 -> 1>
+Popped key: <Transition at t=1058027, gate z10 -> 0>
+Popped key: <Transition at t=1070024, gate x10 -> 1>
+Popped key: <Transition at t=1058028, gate y11 -> 0>
+Popped key: <Transition at t=1070025, gate z10 -> 1>
+Popped key: <Transition at t=1058029, gate z11 -> 0>
+Popped key: <Transition at t=1150022, gate x10 -> 0>
+Popped key: <Transition at t=1058030, gate y12 -> 0>
+Popped key: <Transition at t=1150023, gate z10 -> 0>
+Popped key: <Transition at t=1214022, gate x10 -> 1>
+Popped key: <Transition at t=1150024, gate y11 -> 0>
+Popped key: <Transition at t=1214023, gate z10 -> 1>
+Popped key: <Transition at t=1220016, gate x10 -> 0>
+Popped key: <Transition at t=1214024, gate y11 -> 1>
+Popped key: <Transition at t=1220017, gate z10 -> 0>
+Popped key: <Transition at t=1214025, gate z11 -> 1>
+Popped key: <Transition at t=558022, gate x9 -> 1>
+Popped key: <Transition at t=1214026, gate y12 -> 1>
+Popped key: <Transition at t=558023, gate z9 -> 1>
+Popped key: <Transition at t=1214027, gate z12 -> 1>
+Popped key: <Transition at t=1226024, gate x10 -> 1>
+Popped key: <Transition at t=1266023, gate x10 -> 1>
+Popped key: <Transition at t=1226025, gate z10 -> 1>
+Popped key: <Transition at t=1278021, gate x10 -> 0>
+Popped key: <Transition at t=1226026, gate y11 -> 1>
+Popped key: <Transition at t=1278022, gate z10 -> 0>
+Popped key: <Transition at t=1284017, gate x10 -> 1>
+Popped key: <Transition at t=1278023, gate y11 -> 0>
+Popped key: <Transition at t=1284018, gate z10 -> 1>
+Popped key: <Transition at t=1278024, gate z11 -> 0>
+Popped key: <Transition at t=1284019, gate y11 -> 1>
+Popped key: <Transition at t=1278025, gate y12 -> 0>
+Popped key: <Transition at t=1284020, gate z11 -> 1>
+Popped key: <Transition at t=1278026, gate z12 -> 0>
+Popped key: <Transition at t=994021, gate x9 -> 1>
+Popped key: <Transition at t=1278027, gate y13 -> 0>
+Popped key: <Transition at t=1284021, gate y12 -> 1>
+Popped key: <Transition at t=1290025, gate x10 -> 0>
+Popped key: <Transition at t=1284022, gate z12 -> 1>
+Popped key: <Transition at t=1284023, gate y13 -> 1>
+Popped key: <Transition at t=1284024, gate z13 -> 1>
+Popped key: <Transition at t=1290026, gate z10 -> 0>
+Popped key: <Transition at t=1290027, gate y11 -> 0>
+Popped key: <Transition at t=1290028, gate z11 -> 0>
+Popped key: <Transition at t=1348016, gate x10 -> 0>
+Popped key: <Transition at t=1290029, gate y12 -> 0>
+Popped key: <Transition at t=1290030, gate z12 -> 0>
+Popped key: <Transition at t=1362024, gate x10 -> 1>
+Popped key: <Transition at t=1290031, gate y13 -> 0>
+Popped key: <Transition at t=1362025, gate z10 -> 1>
+Popped key: <Transition at t=1290032, gate z13 -> 0>
+Popped key: <Transition at t=1422023, gate x10 -> 1>
+Popped key: <Transition at t=1426024, gate x10 -> 0>
+Popped key: <Transition at t=1362026, gate y11 -> 1>
+Popped key: <Transition at t=1362027, gate z11 -> 1>
+Popped key: <Transition at t=1426025, gate z10 -> 0>
+Popped key: <Transition at t=1362028, gate y12 -> 1>
+Popped key: <Transition at t=1458023, gate x10 -> 0>
+Popped key: <Transition at t=1470021, gate x10 -> 1>
+Popped key: <Transition at t=1476015, gate x10 -> 0>
+Popped key: <Transition at t=1470022, gate z10 -> 1>
+Popped key: <Transition at t=1476016, gate z10 -> 0>
+Popped key: <Transition at t=1470023, gate y11 -> 1>
+Popped key: <Transition at t=1476017, gate y11 -> 0>
+Popped key: <Transition at t=1482023, gate x10 -> 1>
+Popped key: <Transition at t=1476018, gate z11 -> 0>
+Popped key: <Transition at t=1482024, gate z10 -> 1>
+Popped key: <Transition at t=1476019, gate y12 -> 0>
+Popped key: <Transition at t=1502021, gate x10 -> 0>
+Popped key: <Transition at t=1506023, gate x10 -> 1>
+Popped key: <Transition at t=1502022, gate z10 -> 0>
+Popped key: <Transition at t=1506024, gate z10 -> 1>
+Popped key: <Transition at t=1502023, gate y11 -> 0>
+Popped key: <Transition at t=1518021, gate x10 -> 0>
+Popped key: <Transition at t=1522022, gate x10 -> 1>
+Popped key: <Transition at t=1518022, gate z10 -> 0>
+Popped key: <Transition at t=1522023, gate z10 -> 1>
+Popped key: <Transition at t=1518023, gate y11 -> 0>
+Popped key: <Transition at t=1522024, gate y11 -> 1>
+Popped key: <Transition at t=1534020, gate x10 -> 1>
+Popped key: <Transition at t=1522025, gate z11 -> 1>
+Popped key: <Transition at t=1546015, gate x10 -> 0>
+Popped key: <Transition at t=1522026, gate y12 -> 1>
+Popped key: <Transition at t=1546016, gate z10 -> 0>
+Popped key: <Transition at t=1522027, gate z12 -> 1>
+Popped key: <Transition at t=1546017, gate y11 -> 0>
+Popped key: <Transition at t=1554025, gate x10 -> 0>
+Popped key: <Transition at t=1566023, gate x10 -> 1>
+Popped key: <Transition at t=1570025, gate x10 -> 0>
+Popped key: <Transition at t=1566024, gate z10 -> 1>
+Popped key: <Transition at t=1570026, gate z10 -> 0>
+Popped key: <Transition at t=1582023, gate x10 -> 1>
+Popped key: <Transition at t=1570027, gate y11 -> 0>
+Popped key: <Transition at t=1582024, gate z10 -> 1>
+Popped key: <Transition at t=1634024, gate x10 -> 1>
+Popped key: <Transition at t=1582025, gate y11 -> 1>
+Popped key: <Transition at t=1662021, gate x10 -> 0>
+Popped key: <Transition at t=1582026, gate z11 -> 1>
+Popped key: <Transition at t=1662022, gate z10 -> 0>
+Popped key: <Transition at t=1726021, gate x10 -> 1>
+Popped key: <Transition at t=1662023, gate y11 -> 0>
+Popped key: <Transition at t=1726022, gate z10 -> 1>
+Popped key: <Transition at t=1662024, gate z11 -> 0>
+Popped key: <Transition at t=1726023, gate y11 -> 1>
+Popped key: <Transition at t=1732015, gate x10 -> 0>
+Popped key: <Transition at t=1726024, gate z11 -> 1>
+Popped key: <Transition at t=1732016, gate z10 -> 0>
+Popped key: <Transition at t=1726025, gate y12 -> 1>
+Popped key: <Transition at t=1738023, gate x10 -> 1>
+Popped key: <Transition at t=1790020, gate x10 -> 0>
+Popped key: <Transition at t=1738024, gate z10 -> 1>
+Popped key: <Transition at t=1790021, gate z10 -> 0>
+Popped key: <Transition at t=1796016, gate x10 -> 1>
+Popped key: <Transition at t=1790022, gate y11 -> 0>
+Popped key: <Transition at t=1796017, gate z10 -> 1>
+Popped key: <Transition at t=1790023, gate z11 -> 0>
+Popped key: <Transition at t=1938023, gate x10 -> 0>
+Popped key: <Transition at t=1790024, gate y12 -> 0>
+Popped key: <Transition at t=1938024, gate z10 -> 0>
+Popped key: <Transition at t=1790025, gate z12 -> 0>
+Popped key: <Transition at t=1950021, gate x10 -> 1>
+Popped key: <Transition at t=1790026, gate y13 -> 0>
+Popped key: <Transition at t=1950022, gate z10 -> 1>
+Popped key: <Transition at t=926028, gate y13 -> 1>
+Popped key: <Transition at t=1022025, gate z12 -> 0>
+Popped key: <Transition at t=926029, gate z13 -> 1>
+Popped key: <Transition at t=558024, gate y10 -> 1>
+Popped key: <Transition at t=1038029, gate y12 -> 1>
+Popped key: <Transition at t=558025, gate z10 -> 0>
+Popped key: <Transition at t=1038030, gate z12 -> 1>
+Popped key: <Transition at t=1054028, gate y12 -> 1>
+Popped key: <Transition at t=1038031, gate y13 -> 1>
+Popped key: <Transition at t=1220018, gate y11 -> 0>
+Popped key: <Transition at t=1950023, gate y11 -> 1>
+Popped key: <Transition at t=1970022, gate x10 -> 0>
+Popped key: <Transition at t=1950024, gate z11 -> 1>
+Popped key: <Transition at t=1970023, gate z10 -> 1>
+Popped key: <Transition at t=1950025, gate y12 -> 1>
+Popped key: <Transition at t=1982020, gate x10 -> 1>
+Popped key: <Transition at t=558026, gate y11 -> 0>
+Popped key: <Transition at t=990022, gate z10 -> 0>
+Popped key: <Transition at t=558027, gate z11 -> 0>
+Popped key: <Transition at t=1982021, gate z10 -> 0>
+Popped key: <Transition at t=558028, gate y12 -> 0>
+Popped key: <Transition at t=990023, gate y11 -> 0>
+Popped key: <Transition at t=1988014, gate x10 -> 0>
+Popped key: <Transition at t=558029, gate z12 -> 0>
+Popped key: <Transition at t=1070026, gate y11 -> 1>
+Popped key: <Transition at t=558030, gate y13 -> 0>
+Popped key: <Transition at t=1070027, gate z11 -> 1>
+Popped key: <Transition at t=558031, gate z13 -> 0>
+Popped key: <Transition at t=1070028, gate y12 -> 1>
+Popped key: <Transition at t=1522028, gate y13 -> 1>
+Popped key: <Transition at t=1070029, gate z12 -> 1>
+Popped key: <Transition at t=1522029, gate z13 -> 1>
+Popped key: <Transition at t=1070030, gate y13 -> 1>
+Popped key: <Transition at t=1988015, gate z10 -> 1>
+Popped key: <Transition at t=1546018, gate z11 -> 0>
+Popped key: <Transition at t=1566025, gate y11 -> 1>
+Popped key: <Transition at t=1546019, gate y12 -> 0>
+Popped key: <Transition at t=1662025, gate y12 -> 0>
+Popped key: <Transition at t=1994022, gate x10 -> 1>
+Popped key: <Transition at t=1546020, gate z12 -> 0>
+Popped key: <Transition at t=1732017, gate y11 -> 0>
+Popped key: <Transition at t=1546021, gate y13 -> 0>
+Popped key: <Transition at t=1732018, gate z11 -> 0>
+Popped key: <Transition at t=1994023, gate z10 -> 0>
+Popped key: <Transition at t=1546022, gate z13 -> 0>
+Popped key: <Transition at t=1738025, gate y11 -> 1>
+Popped key: <Transition at t=1796018, gate y11 -> 1>
+Popped key: <Transition at t=1738026, gate z11 -> 1>
+Popped key: <Transition at t=1938025, gate y11 -> 0>
+Popped key: <Transition at t=1738027, gate y12 -> 1>
+Popped key: <Transition at t=1938026, gate z11 -> 0>
+Popped key: <Transition at t=1738028, gate z12 -> 1>
+Popped key: <Transition at t=1938027, gate y12 -> 0>
+Popped key: <Transition at t=1738029, gate y13 -> 1>
+Popped key: <Transition at t=1938028, gate z12 -> 0>
+Popped key: <Transition at t=1738030, gate z13 -> 1>
+Popped key: <Transition at t=1970024, gate y11 -> 1>
+Popped key: <Transition at t=1988016, gate y11 -> 1>
+Popped key: <Transition at t=1970025, gate z11 -> 1>
+Popped key: <Transition at t=1994024, gate y11 -> 0>
+Popped key: <Transition at t=1970026, gate y12 -> 1>
+Popped key: <Transition at t=1994025, gate z11 -> 0>
+Popped key: <Transition at t=1970027, gate z12 -> 1>
+Popped key: <Transition at t=1938029, gate y13 -> 0>
+Popped key: <Transition at t=1970028, gate y13 -> 1>
+Popped key: <Transition at t=1938030, gate z13 -> 0>
+Popped key: <Transition at t=1970029, gate z13 -> 1>
+Popped key: <Transition at t=2014020, gate x10 -> 0>
+Popped key: <Transition at t=2046019, gate x10 -> 0>
+Popped key: <Transition at t=2014021, gate z10 -> 1>
+Popped key: <Transition at t=2048000, gate x11 -> 0>
+Popped key: <Transition at t=2014022, gate y11 -> 1>
+Popped key: <Transition at t=1426026, gate y11 -> 0>
+Popped key: <Transition at t=1362029, gate z12 -> 1>
+Popped key: <Transition at t=2062027, gate x11 -> 1>
+Popped key: <Transition at t=1426027, gate z11 -> 0>
+Popped key: <Transition at t=2062028, gate z11 -> 1>
+Popped key: <Transition at t=1476020, gate z12 -> 0>
+Popped key: <Transition at t=2062029, gate y12 -> 1>
+Popped key: <Transition at t=2066028, gate x11 -> 0>
+Popped key: <Transition at t=1476021, gate y13 -> 0>
+Popped key: <Transition at t=1482025, gate y11 -> 1>
+Popped key: <Transition at t=1476022, gate z13 -> 0>
+Popped key: <Transition at t=1482026, gate z11 -> 1>
+Popped key: <Transition at t=2066029, gate z11 -> 0>
+Popped key: <Transition at t=1506025, gate y11 -> 1>
+Popped key: <Transition at t=1994026, gate y12 -> 0>
+Popped key: <Transition at t=2014023, gate z11 -> 1>
+Popped key: <Transition at t=1994027, gate z12 -> 0>
+Popped key: <Transition at t=2066030, gate y12 -> 0>
+Popped key: <Transition at t=2078026, gate x11 -> 1>
+Popped key: <Transition at t=2082028, gate x11 -> 0>
+Popped key: <Transition at t=2094026, gate x11 -> 1>
+Popped key: <Transition at t=2174024, gate x11 -> 0>
+Popped key: <Transition at t=2094027, gate z11 -> 0>
+Popped key: <Transition at t=2174025, gate z11 -> 1>
+Popped key: <Transition at t=2094028, gate y12 -> 0>
+Popped key: <Transition at t=2174026, gate y12 -> 1>
+Popped key: <Transition at t=2250026, gate x11 -> 1>
+Popped key: <Transition at t=2174027, gate z12 -> 1>
+Popped key: <Transition at t=2250027, gate z11 -> 0>
+Popped key: <Transition at t=2174028, gate y13 -> 1>
+Popped key: <Transition at t=2250028, gate y12 -> 0>
+Popped key: <Transition at t=2174029, gate z13 -> 1>
+Popped key: <Transition at t=2250029, gate z12 -> 0>
+Popped key: <Transition at t=2290025, gate x11 -> 1>
+Popped key: <Transition at t=2250030, gate y13 -> 0>
+Popped key: <Transition at t=2302023, gate x11 -> 0>
+Popped key: <Transition at t=2250031, gate z13 -> 0>
+Popped key: <Transition at t=2302024, gate z11 -> 1>
+Popped key: <Transition at t=2308019, gate x11 -> 1>
+Popped key: <Transition at t=2302025, gate y12 -> 1>
+Popped key: <Transition at t=2308020, gate z11 -> 0>
+Popped key: <Transition at t=2302026, gate z12 -> 1>
+Popped key: <Transition at t=2308021, gate y12 -> 0>
+Popped key: <Transition at t=2302027, gate y13 -> 1>
+Popped key: <Transition at t=2308022, gate z12 -> 0>
+Popped key: <Transition at t=2302028, gate z13 -> 1>
+Popped key: <Transition at t=2308023, gate y13 -> 0>
+Popped key: <Transition at t=2314027, gate x11 -> 0>
+Popped key: <Transition at t=2308024, gate z13 -> 0>
+Popped key: <Transition at t=2372018, gate x11 -> 0>
+Popped key: <Transition at t=2386026, gate x11 -> 1>
+Popped key: <Transition at t=2314028, gate z11 -> 1>
+Popped key: <Transition at t=2386027, gate z11 -> 0>
+Popped key: <Transition at t=2314029, gate y12 -> 1>
+Popped key: <Transition at t=2386028, gate y12 -> 0>
+Popped key: <Transition at t=2314030, gate z12 -> 1>
+Popped key: <Transition at t=2386029, gate z12 -> 0>
+Popped key: <Transition at t=2314031, gate y13 -> 1>
+Popped key: <Transition at t=2482025, gate x11 -> 0>
+Popped key: <Transition at t=2386030, gate y13 -> 0>
+Popped key: <Transition at t=2482026, gate z11 -> 1>
+Popped key: <Transition at t=2386031, gate z13 -> 0>
+Popped key: <Transition at t=2482027, gate y12 -> 1>
+Popped key: <Transition at t=2546024, gate x11 -> 1>
+Popped key: <Transition at t=2482028, gate z12 -> 1>
+Popped key: <Transition at t=2546025, gate z11 -> 0>
+Popped key: <Transition at t=2482029, gate y13 -> 1>
+Popped key: <Transition at t=2570017, gate x11 -> 0>
+Popped key: <Transition at t=2606025, gate x11 -> 0>
+Popped key: <Transition at t=2570018, gate z11 -> 1>
+Popped key: <Transition at t=2658026, gate x11 -> 1>
+Popped key: <Transition at t=2570019, gate y12 -> 1>
+Popped key: <Transition at t=2658027, gate z11 -> 0>
+Popped key: <Transition at t=2034021, gate x10 -> 1>
+Popped key: <Transition at t=2658028, gate y12 -> 0>
+Popped key: <Transition at t=2546026, gate y12 -> 0>
+Popped key: <Transition at t=2658029, gate z12 -> 0>
+Popped key: <Transition at t=2686023, gate x11 -> 0>
+Popped key: <Transition at t=2658030, gate y13 -> 0>
+Popped key: <Transition at t=2686024, gate z11 -> 1>
+Popped key: <Transition at t=2658031, gate z13 -> 0>
+Popped key: <Transition at t=2686025, gate y12 -> 1>
+Popped key: <Transition at t=2756017, gate x11 -> 0>
+Popped key: <Transition at t=2686026, gate z12 -> 1>
+Popped key: <Transition at t=2762025, gate x11 -> 1>
+Popped key: <Transition at t=2686027, gate y13 -> 1>
+Popped key: <Transition at t=2762026, gate z11 -> 0>
+Popped key: <Transition at t=2686028, gate z13 -> 1>
+Popped key: <Transition at t=2762027, gate y12 -> 0>
+Popped key: <Transition at t=2814022, gate x11 -> 0>
+Popped key: <Transition at t=2762028, gate z12 -> 0>
+Popped key: <Transition at t=2814023, gate z11 -> 1>
+Popped key: <Transition at t=2762029, gate y13 -> 0>
+Popped key: <Transition at t=2820018, gate x11 -> 1>
+Popped key: <Transition at t=2814024, gate y12 -> 1>
+Popped key: <Transition at t=2820019, gate z11 -> 0>
+Popped key: <Transition at t=2814025, gate z12 -> 1>
+Popped key: <Transition at t=2820020, gate y12 -> 0>
+Popped key: <Transition at t=2974023, gate x11 -> 1>
+Popped key: <Transition at t=2994024, gate x11 -> 0>
+Popped key: <Transition at t=3018024, gate x11 -> 1>
+Popped key: <Transition at t=2994025, gate z11 -> 1>
+Popped key: <Transition at t=3018025, gate z11 -> 0>
+Popped key: <Transition at t=3038022, gate x11 -> 0>
+Popped key: <Transition at t=3018026, gate y12 -> 0>
+Popped key: <Transition at t=3038023, gate z11 -> 1>
+Popped key: <Transition at t=3070021, gate x11 -> 0>
+Popped key: <Transition at t=3038024, gate y12 -> 1>
+Popped key: <Transition at t=3086026, gate x11 -> 1>
+Popped key: <Transition at t=3038025, gate z12 -> 1>
+Popped key: <Transition at t=3086027, gate z11 -> 0>
+Popped key: <Transition at t=3090027, gate x11 -> 0>
+Popped key: <Transition at t=3086028, gate y12 -> 0>
+Popped key: <Transition at t=3090028, gate z11 -> 1>
+Popped key: <Transition at t=3086029, gate z12 -> 0>
+Popped key: <Transition at t=3090029, gate y12 -> 1>
+Popped key: <Transition at t=3102025, gate x11 -> 1>
+Popped key: <Transition at t=3090030, gate z12 -> 1>
+Popped key: <Transition at t=3102026, gate z11 -> 0>
+Popped key: <Transition at t=3090031, gate y13 -> 1>
+Popped key: <Transition at t=3106027, gate x11 -> 0>
+Popped key: <Transition at t=3118025, gate x11 -> 1>
+Popped key: <Transition at t=3106028, gate z11 -> 1>
+Popped key: <Transition at t=3118026, gate z11 -> 0>
+Popped key: <Transition at t=3106029, gate y12 -> 1>
+Popped key: <Transition at t=3198023, gate x11 -> 0>
+Popped key: <Transition at t=3262023, gate x11 -> 1>
+Popped key: <Transition at t=3198024, gate z11 -> 1>
+Popped key: <Transition at t=3262024, gate z11 -> 0>
+Popped key: <Transition at t=3198025, gate y12 -> 1>
+Popped key: <Transition at t=3262025, gate y12 -> 0>
+Popped key: <Transition at t=3268017, gate x11 -> 0>
+Popped key: <Transition at t=3262026, gate z12 -> 0>
+Popped key: <Transition at t=3268018, gate z11 -> 1>
+Popped key: <Transition at t=3262027, gate y13 -> 0>
+Popped key: <Transition at t=3262028, gate z13 -> 0>
+Popped key: <Transition at t=3268019, gate y12 -> 1>
+Popped key: <Transition at t=3274025, gate x11 -> 1>
+Popped key: <Transition at t=3268020, gate z12 -> 1>
+Popped key: <Transition at t=3268021, gate y13 -> 1>
+Popped key: <Transition at t=3268022, gate z13 -> 1>
+Popped key: <Transition at t=3274026, gate z11 -> 0>
+Popped key: <Transition at t=3274027, gate y12 -> 0>
+Popped key: <Transition at t=3274028, gate z12 -> 0>
+Popped key: <Transition at t=3326022, gate x11 -> 0>
+Popped key: <Transition at t=3274029, gate y13 -> 0>
+Popped key: <Transition at t=3326023, gate z11 -> 1>
+Popped key: <Transition at t=3274030, gate z13 -> 0>
+Popped key: <Transition at t=3332018, gate x11 -> 1>
+Popped key: <Transition at t=3338026, gate x11 -> 0>
+Popped key: <Transition at t=3332019, gate z11 -> 0>
+Popped key: <Transition at t=3338027, gate z11 -> 1>
+Popped key: <Transition at t=3332020, gate y12 -> 0>
+Popped key: <Transition at t=3338028, gate y12 -> 1>
+Popped key: <Transition at t=3410025, gate x11 -> 1>
+Popped key: <Transition at t=3338029, gate z12 -> 1>
+Popped key: <Transition at t=3410026, gate z11 -> 0>
+Popped key: <Transition at t=3338030, gate y13 -> 1>
+Popped key: <Transition at t=3474025, gate x11 -> 0>
+Popped key: <Transition at t=3518022, gate x11 -> 1>
+Popped key: <Transition at t=3474026, gate z11 -> 1>
+Popped key: <Transition at t=3518023, gate z11 -> 0>
+Popped key: <Transition at t=3474027, gate y12 -> 1>
+Popped key: <Transition at t=3524016, gate x11 -> 0>
+Popped key: <Transition at t=3530024, gate x11 -> 1>
+Popped key: <Transition at t=3524017, gate z11 -> 1>
+Popped key: <Transition at t=3530025, gate z11 -> 0>
+Popped key: <Transition at t=3524018, gate y12 -> 1>
+Popped key: <Transition at t=3530026, gate y12 -> 0>
+Popped key: <Transition at t=3550022, gate x11 -> 0>
+Popped key: <Transition at t=3530027, gate z12 -> 0>
+Popped key: <Transition at t=3550023, gate z11 -> 1>
+Popped key: <Transition at t=3530028, gate y13 -> 0>
+Popped key: <Transition at t=3554024, gate x11 -> 1>
+Popped key: <Transition at t=3566022, gate x11 -> 0>
+Popped key: <Transition at t=3570023, gate x11 -> 1>
+Popped key: <Transition at t=3566023, gate z11 -> 1>
+Popped key: <Transition at t=3570024, gate z11 -> 0>
+Popped key: <Transition at t=2014024, gate y12 -> 1>
+Popped key: <Transition at t=3570025, gate y12 -> 0>
+Popped key: <Transition at t=3554025, gate z11 -> 0>
+Popped key: <Transition at t=3570026, gate z12 -> 0>
+Popped key: <Transition at t=3594016, gate x11 -> 0>
+Popped key: <Transition at t=2078027, gate z11 -> 0>
+Popped key: <Transition at t=3594017, gate z11 -> 1>
+Popped key: <Transition at t=2082029, gate z11 -> 1>
+Popped key: <Transition at t=3594018, gate y12 -> 1>
+Popped key: <Transition at t=3614024, gate x11 -> 1>
+Popped key: <Transition at t=3594019, gate z12 -> 1>
+Popped key: <Transition at t=3614025, gate z11 -> 0>
+Popped key: <Transition at t=3594020, gate y13 -> 1>
+Popped key: <Transition at t=3614026, gate y12 -> 0>
+Popped key: <Transition at t=3594021, gate z13 -> 1>
+Popped key: <Transition at t=3614027, gate z12 -> 0>
+Popped key: <Transition at t=3618026, gate x11 -> 0>
+Popped key: <Transition at t=3614028, gate y13 -> 0>
+Popped key: <Transition at t=3618027, gate z11 -> 1>
+Popped key: <Transition at t=3614029, gate z13 -> 0>
+Popped key: <Transition at t=3618028, gate y12 -> 1>
+Popped key: <Transition at t=3630024, gate x11 -> 1>
+Popped key: <Transition at t=3618029, gate z12 -> 1>
+Popped key: <Transition at t=3630025, gate z11 -> 0>
+Popped key: <Transition at t=3618030, gate y13 -> 1>
+Popped key: <Transition at t=3630026, gate y12 -> 0>
+Popped key: <Transition at t=3618031, gate z13 -> 1>
+Popped key: <Transition at t=3630027, gate z12 -> 0>
+Popped key: <Transition at t=3710022, gate x11 -> 0>
+Popped key: <Transition at t=3630028, gate y13 -> 0>
+Popped key: <Transition at t=3710023, gate z11 -> 1>
+Popped key: <Transition at t=3630029, gate z13 -> 0>
+Popped key: <Transition at t=3774022, gate x11 -> 1>
+Popped key: <Transition at t=2814026, gate y13 -> 1>
+Popped key: <Transition at t=3774023, gate z11 -> 0>
+Popped key: <Transition at t=2814027, gate z13 -> 1>
+Popped key: <Transition at t=3774024, gate y12 -> 0>
+Popped key: <Transition at t=3780016, gate x11 -> 0>
+Popped key: <Transition at t=2820021, gate z12 -> 0>
+Popped key: <Transition at t=3786024, gate x11 -> 1>
+Popped key: <Transition at t=2994026, gate y12 -> 1>
+Popped key: <Transition at t=3086030, gate y13 -> 0>
+Popped key: <Transition at t=2994027, gate z12 -> 1>
+Popped key: <Transition at t=3086031, gate z13 -> 0>
+Popped key: <Transition at t=3090032, gate z13 -> 1>
+Popped key: <Transition at t=3102027, gate y12 -> 0>
+Popped key: <Transition at t=3118027, gate y12 -> 0>
+Popped key: <Transition at t=3518024, gate y12 -> 0>
+Popped key: <Transition at t=3780017, gate z11 -> 1>
+Popped key: <Transition at t=2014025, gate z12 -> 1>
+Popped key: <Transition at t=2994028, gate y13 -> 1>
+Popped key: <Transition at t=3530029, gate z13 -> 0>
+Popped key: <Transition at t=3410027, gate y12 -> 0>
+Popped key: <Transition at t=3780018, gate y12 -> 1>
+Popped key: <Transition at t=3550024, gate y12 -> 1>
+Popped key: <Transition at t=3710024, gate y12 -> 1>
+Popped key: <Transition at t=3780019, gate z12 -> 1>
+Popped key: <Transition at t=3786025, gate z11 -> 0>
+Popped key: <Transition at t=2994029, gate z13 -> 1>
+Popped key: <Transition at t=3326024, gate y12 -> 1>
+Popped key: <Transition at t=3838021, gate x11 -> 0>
+Popped key: <Transition at t=3102028, gate z12 -> 0>
+Popped key: <Transition at t=3338031, gate z13 -> 1>
+Popped key: <Transition at t=3102029, gate y13 -> 0>
+Popped key: <Transition at t=3786026, gate y12 -> 0>
+Popped key: <Transition at t=3838022, gate z11 -> 1>
+Popped key: <Transition at t=3786027, gate z12 -> 0>
+Popped key: <Transition at t=3838023, gate y12 -> 1>
+Popped key: <Transition at t=3844017, gate x11 -> 1>
+Popped key: <Transition at t=3838024, gate z12 -> 1>
+Popped key: <Transition at t=3844018, gate z11 -> 0>
+Popped key: <Transition at t=3838025, gate y13 -> 1>
+Popped key: <Transition at t=3838026, gate z13 -> 1>
+Popped key: <Transition at t=3844019, gate y12 -> 0>
+Popped key: <Transition at t=3986024, gate x11 -> 0>
+Popped key: <Transition at t=3844020, gate z12 -> 0>
+Popped key: <Transition at t=3844021, gate y13 -> 0>
+Popped key: <Transition at t=3844022, gate z13 -> 0>
+Popped key: <Transition at t=3986025, gate z11 -> 1>
+Popped key: <Transition at t=3986026, gate y12 -> 1>
+Popped key: <Transition at t=3986027, gate z12 -> 1>
+Popped key: <Transition at t=3998022, gate x11 -> 1>
+Popped key: <Transition at t=3986028, gate y13 -> 1>
+Popped key: <Transition at t=3998023, gate z11 -> 0>
+Popped key: <Transition at t=3986029, gate z13 -> 1>
+Popped key: <Transition at t=4018023, gate x11 -> 1>
+Popped key: <Transition at t=4036015, gate x11 -> 1>
+Popped key: <Transition at t=4042023, gate x11 -> 0>
+Popped key: <Transition at t=3998024, gate y12 -> 0>
+Popped key: <Transition at t=4042024, gate z11 -> 1>
+Popped key: <Transition at t=3998025, gate z12 -> 0>
+Popped key: <Transition at t=4042025, gate y12 -> 1>
+Popped key: <Transition at t=3998026, gate y13 -> 0>
+Popped key: <Transition at t=4042026, gate z12 -> 1>
+Popped key: <Transition at t=3998027, gate z13 -> 0>
+Popped key: <Transition at t=4062021, gate x11 -> 1>
+Popped key: <Transition at t=4096000, gate x12 -> 0>
+Popped key: <Transition at t=4062022, gate z11 -> 0>
+Popped key: <Transition at t=4042027, gate y13 -> 1>
+Popped key: <Transition at t=4062023, gate y12 -> 0>
+Popped key: <Transition at t=4042028, gate z13 -> 1>
+Popped key: <Transition at t=4062024, gate z12 -> 0>
+Popped key: <Transition at t=4110029, gate x12 -> 1>
+Popped key: <Transition at t=4062025, gate y13 -> 0>
+Popped key: <Transition at t=4110030, gate z12 -> 1>
+Popped key: <Transition at t=4062026, gate z13 -> 0>
+Popped key: <Transition at t=4114030, gate x12 -> 0>
+Popped key: <Transition at t=2034022, gate z10 -> 0>
+Popped key: <Transition at t=2482030, gate z13 -> 1>
+Popped key: <Transition at t=4110031, gate y13 -> 1>
+Popped key: <Transition at t=4082022, gate x11 -> 0>
+Popped key: <Transition at t=4110032, gate z13 -> 1>
+Popped key: <Transition at t=4082023, gate z11 -> 1>
+Popped key: <Transition at t=2034023, gate y11 -> 0>
+Popped key: <Transition at t=2762030, gate z13 -> 0>
+Popped key: <Transition at t=2034024, gate z11 -> 0>
+Popped key: <Transition at t=4082024, gate y12 -> 1>
+Popped key: <Transition at t=2034025, gate y12 -> 0>
+Popped key: <Transition at t=4082025, gate z12 -> 1>
+Popped key: <Transition at t=2034026, gate z12 -> 0>
+Popped key: <Transition at t=4114031, gate z12 -> 0>
+Popped key: <Transition at t=2034027, gate y13 -> 0>
+Popped key: <Transition at t=2034028, gate z13 -> 0>
+Popped key: <Transition at t=4126028, gate x12 -> 1>
+Popped key: <Transition at t=4130030, gate x12 -> 0>
+Popped key: <Transition at t=4126029, gate z12 -> 1>
+Popped key: <Transition at t=4126030, gate y13 -> 1>
+Popped key: <Transition at t=4126031, gate z13 -> 1>
+Popped key: <Transition at t=4130031, gate z12 -> 0>
+Popped key: <Transition at t=4130032, gate y13 -> 0>
+Popped key: <Transition at t=4130033, gate z13 -> 0>
+Popped key: <Transition at t=4142028, gate x12 -> 1>
+Popped key: <Transition at t=4222026, gate x12 -> 0>
+Popped key: <Transition at t=4142029, gate z12 -> 1>
+Popped key: <Transition at t=4142030, gate y13 -> 1>
+Popped key: <Transition at t=4142031, gate z13 -> 1>
+Popped key: <Transition at t=4222027, gate z12 -> 0>
+Popped key: <Transition at t=4222028, gate y13 -> 0>
+Popped key: <Transition at t=4222029, gate z13 -> 0>
+Popped key: <Transition at t=4298028, gate x12 -> 1>
+Popped key: <Transition at t=4338027, gate x12 -> 1>
+Popped key: <Transition at t=4298029, gate z12 -> 1>
+Popped key: <Transition at t=4350025, gate x12 -> 0>
+Popped key: <Transition at t=4298030, gate y13 -> 1>
+Popped key: <Transition at t=4350026, gate z12 -> 0>
+Popped key: <Transition at t=4298031, gate z13 -> 1>
+Popped key: <Transition at t=4350027, gate y13 -> 0>
+Popped key: <Transition at t=4356021, gate x12 -> 1>
+Popped key: <Transition at t=4350028, gate z13 -> 0>
+Popped key: <Transition at t=4356022, gate z12 -> 1>
+Popped key: <Transition at t=4362029, gate x12 -> 0>
+Popped key: <Transition at t=4356023, gate y13 -> 1>
+Popped key: <Transition at t=4362030, gate z12 -> 0>
+Popped key: <Transition at t=4356024, gate z13 -> 1>
+Popped key: <Transition at t=4362031, gate y13 -> 0>
+Popped key: <Transition at t=4420020, gate x12 -> 0>
+Popped key: <Transition at t=4362032, gate z13 -> 0>
+Popped key: <Transition at t=4434028, gate x12 -> 1>
+Popped key: <Transition at t=4530027, gate x12 -> 0>
+Popped key: <Transition at t=4434029, gate z12 -> 1>
+Popped key: <Transition at t=4530028, gate z12 -> 0>
+Popped key: <Transition at t=4434030, gate y13 -> 1>
+Popped key: <Transition at t=4530029, gate y13 -> 0>
+Popped key: <Transition at t=4434031, gate z13 -> 1>
+Popped key: <Transition at t=4530030, gate z13 -> 0>
+Popped key: <Transition at t=4594026, gate x12 -> 1>
+Popped key: <Transition at t=4618019, gate x12 -> 0>
+Popped key: <Transition at t=4594027, gate z12 -> 1>
+Popped key: <Transition at t=4618020, gate z12 -> 0>
+Popped key: <Transition at t=4594028, gate y13 -> 1>
+Popped key: <Transition at t=4618021, gate y13 -> 0>
+Popped key: <Transition at t=4594029, gate z13 -> 1>
+Popped key: <Transition at t=4618022, gate z13 -> 0>
+Popped key: <Transition at t=4654027, gate x12 -> 0>
+Popped key: <Transition at t=4706028, gate x12 -> 1>
+Popped key: <Transition at t=4862024, gate x12 -> 0>
+Popped key: <Transition at t=4868020, gate x12 -> 1>
+Popped key: <Transition at t=5022025, gate x12 -> 1>
+Popped key: <Transition at t=4868021, gate z12 -> 1>
+Popped key: <Transition at t=5042026, gate x12 -> 0>
+Popped key: <Transition at t=4868022, gate y13 -> 1>
+Popped key: <Transition at t=5042027, gate z12 -> 0>
+Popped key: <Transition at t=4868023, gate z13 -> 1>
+Popped key: <Transition at t=5042028, gate y13 -> 0>
+Popped key: <Transition at t=5118023, gate x12 -> 0>
+Popped key: <Transition at t=5042029, gate z13 -> 0>
+Popped key: <Transition at t=5134028, gate x12 -> 1>
+Popped key: <Transition at t=5138029, gate x12 -> 0>
+Popped key: <Transition at t=5150027, gate x12 -> 1>
+Popped key: <Transition at t=5138030, gate z12 -> 0>
+Popped key: <Transition at t=5150028, gate z12 -> 1>
+Popped key: <Transition at t=5154029, gate x12 -> 0>
+Popped key: <Transition at t=5150029, gate y13 -> 1>
+Popped key: <Transition at t=5154030, gate z12 -> 0>
+Popped key: <Transition at t=5150030, gate z13 -> 1>
+Popped key: <Transition at t=5154031, gate y13 -> 0>
+Popped key: <Transition at t=5166027, gate x12 -> 1>
+Popped key: <Transition at t=5154032, gate z13 -> 0>
+Popped key: <Transition at t=5166028, gate z12 -> 1>
+Popped key: <Transition at t=5310025, gate x12 -> 1>
+Popped key: <Transition at t=5166029, gate y13 -> 1>
+Popped key: <Transition at t=5374024, gate x12 -> 0>
+Popped key: <Transition at t=5166030, gate z13 -> 1>
+Popped key: <Transition at t=5374025, gate z12 -> 0>
+Popped key: <Transition at t=5380020, gate x12 -> 1>
+Popped key: <Transition at t=5374026, gate y13 -> 0>
+Popped key: <Transition at t=5380021, gate z12 -> 1>
+Popped key: <Transition at t=5374027, gate z13 -> 0>
+Popped key: <Transition at t=5386028, gate x12 -> 0>
+Popped key: <Transition at t=5458027, gate x12 -> 1>
+Popped key: <Transition at t=5386029, gate z12 -> 0>
+Popped key: <Transition at t=5458028, gate z12 -> 1>
+Popped key: <Transition at t=5386030, gate y13 -> 0>
+Popped key: <Transition at t=5458029, gate y13 -> 1>
+Popped key: <Transition at t=2314032, gate z13 -> 1>
+Popped key: <Transition at t=5458030, gate z13 -> 1>
+Popped key: <Transition at t=5572018, gate x12 -> 0>
+Popped key: <Transition at t=3102030, gate z13 -> 0>
+Popped key: <Transition at t=5618025, gate x12 -> 1>
+Popped key: <Transition at t=4706029, gate z12 -> 1>
+Popped key: <Transition at t=4862025, gate z12 -> 0>
+Popped key: <Transition at t=5134029, gate z12 -> 1>
+Popped key: <Transition at t=4862026, gate y13 -> 0>
+Popped key: <Transition at t=5134030, gate y13 -> 1>
+Popped key: <Transition at t=4862027, gate z13 -> 0>
+Popped key: <Transition at t=5380022, gate y13 -> 1>
+Popped key: <Transition at t=5572019, gate z12 -> 0>
+Popped key: <Transition at t=5134031, gate z13 -> 1>
+Popped key: <Transition at t=5572020, gate y13 -> 0>
+Popped key: <Transition at t=5618026, gate z12 -> 1>
+Popped key: <Transition at t=5642018, gate x12 -> 0>
+Popped key: <Transition at t=5618027, gate y13 -> 1>
+Popped key: <Transition at t=5642019, gate z12 -> 0>
+Popped key: <Transition at t=5618028, gate z13 -> 1>
+Popped key: <Transition at t=5758024, gate x12 -> 0>
+Popped key: <Transition at t=5822024, gate x12 -> 1>
+Popped key: <Transition at t=5834026, gate x12 -> 1>
+Popped key: <Transition at t=5822025, gate z12 -> 1>
+Popped key: <Transition at t=5886023, gate x12 -> 0>
+Popped key: <Transition at t=5822026, gate y13 -> 1>
+Popped key: <Transition at t=5886024, gate z12 -> 0>
+Popped key: <Transition at t=6034026, gate x12 -> 0>
+Popped key: <Transition at t=5886025, gate y13 -> 0>
+Popped key: <Transition at t=6046024, gate x12 -> 1>
+Popped key: <Transition at t=5886026, gate z13 -> 0>
+Popped key: <Transition at t=6046025, gate z12 -> 1>
+Popped key: <Transition at t=6066025, gate x12 -> 1>
+Popped key: <Transition at t=6046026, gate y13 -> 1>
+Popped key: <Transition at t=6090025, gate x12 -> 0>
+Popped key: <Transition at t=6110023, gate x12 -> 1>
+Popped key: <Transition at t=6090026, gate z12 -> 0>
+Popped key: <Transition at t=6110024, gate z12 -> 1>
+Popped key: <Transition at t=6090027, gate y13 -> 0>
+Popped key: <Transition at t=6130024, gate x12 -> 0>
+Popped key: <Transition at t=6110025, gate y13 -> 1>
+Popped key: <Transition at t=6130025, gate z12 -> 0>
+Popped key: <Transition at t=6110026, gate z13 -> 1>
+Popped key: <Transition at t=6130026, gate y13 -> 0>
+Popped key: <Transition at t=6158028, gate x12 -> 1>
+Popped key: <Transition at t=6130027, gate z13 -> 0>
+Popped key: <Transition at t=6158029, gate z12 -> 1>
+Popped key: <Transition at t=6162029, gate x12 -> 0>
+Popped key: <Transition at t=6158030, gate y13 -> 1>
+Popped key: <Transition at t=6162030, gate z12 -> 0>
+Popped key: <Transition at t=6158031, gate z13 -> 1>
+Popped key: <Transition at t=6162031, gate y13 -> 0>
+Popped key: <Transition at t=6190027, gate x12 -> 0>
+Popped key: <Transition at t=6162032, gate z13 -> 0>
+Popped key: <Transition at t=6270025, gate x12 -> 1>
+Popped key: <Transition at t=6346027, gate x12 -> 0>
+Popped key: <Transition at t=6270026, gate z12 -> 1>
+Popped key: <Transition at t=6346028, gate z12 -> 0>
+Popped key: <Transition at t=6270027, gate y13 -> 1>
+Popped key: <Transition at t=6346029, gate y13 -> 0>
+Popped key: <Transition at t=6270028, gate z13 -> 1>
+Popped key: <Transition at t=6346030, gate z13 -> 0>
+Popped key: <Transition at t=6398024, gate x12 -> 1>
+Popped key: <Transition at t=6404020, gate x12 -> 0>
+Popped key: <Transition at t=6398025, gate z12 -> 1>
+Popped key: <Transition at t=6404021, gate z12 -> 0>
+Popped key: <Transition at t=6398026, gate y13 -> 1>
+Popped key: <Transition at t=6404022, gate y13 -> 0>
+Popped key: <Transition at t=6398027, gate z13 -> 1>
+Popped key: <Transition at t=6404023, gate z13 -> 0>
+Popped key: <Transition at t=6410028, gate x12 -> 1>
+Popped key: <Transition at t=5642020, gate y13 -> 0>
+Popped key: <Transition at t=6482027, gate x12 -> 0>
+Popped key: <Transition at t=5572021, gate z13 -> 0>
+Popped key: <Transition at t=6482028, gate z12 -> 0>
+Popped key: <Transition at t=6578026, gate x12 -> 1>
+Popped key: <Transition at t=6046027, gate z13 -> 1>
+Popped key: <Transition at t=6578027, gate z12 -> 1>
+Popped key: <Transition at t=6090028, gate z13 -> 0>
+Popped key: <Transition at t=6578028, gate y13 -> 1>
+Popped key: <Transition at t=6410029, gate z12 -> 1>
+Popped key: <Transition at t=6642025, gate x12 -> 0>
+Popped key: <Transition at t=6578029, gate z13 -> 1>
+Popped key: <Transition at t=6642026, gate z12 -> 0>
+Popped key: <Transition at t=6666018, gate x12 -> 1>
+Popped key: <Transition at t=6642027, gate y13 -> 0>
+Popped key: <Transition at t=6666019, gate z12 -> 1>
+Popped key: <Transition at t=6642028, gate z13 -> 0>
+Popped key: <Transition at t=6754027, gate x12 -> 0>
+Popped key: <Transition at t=6782024, gate x12 -> 1>
+Popped key: <Transition at t=6754028, gate z12 -> 0>
+Popped key: <Transition at t=6782025, gate z12 -> 1>
+Popped key: <Transition at t=6666020, gate y13 -> 1>
+Popped key: <Transition at t=6782026, gate y13 -> 1>
+Popped key: <Transition at t=6666021, gate z13 -> 1>
+Popped key: <Transition at t=6858026, gate x12 -> 0>
+Popped key: <Transition at t=6754029, gate y13 -> 0>
+Popped key: <Transition at t=6858027, gate z12 -> 0>
+Popped key: <Transition at t=6754030, gate z13 -> 0>
+Popped key: <Transition at t=6910023, gate x12 -> 1>
+Popped key: <Transition at t=6858028, gate y13 -> 0>
+Popped key: <Transition at t=6910024, gate z12 -> 1>
+Popped key: <Transition at t=6916019, gate x12 -> 0>
+Popped key: <Transition at t=6910025, gate y13 -> 1>
+Popped key: <Transition at t=6916020, gate z12 -> 0>
+Popped key: <Transition at t=6910026, gate z13 -> 1>
+Popped key: <Transition at t=7090025, gate x12 -> 1>
+Popped key: <Transition at t=6916021, gate y13 -> 0>
+Popped key: <Transition at t=7090026, gate z12 -> 1>
+Popped key: <Transition at t=6916022, gate z13 -> 0>
+Popped key: <Transition at t=7114025, gate x12 -> 0>
+Popped key: <Transition at t=7090027, gate y13 -> 1>
+Popped key: <Transition at t=7114026, gate z12 -> 0>
+Popped key: <Transition at t=7090028, gate z13 -> 1>
+Popped key: <Transition at t=7134023, gate x12 -> 1>
+Popped key: <Transition at t=7114027, gate y13 -> 0>
+Popped key: <Transition at t=7134024, gate z12 -> 1>
+Popped key: <Transition at t=7114028, gate z13 -> 0>
+Popped key: <Transition at t=7182027, gate x12 -> 0>
+Popped key: <Transition at t=7134025, gate y13 -> 1>
+Popped key: <Transition at t=7182028, gate z12 -> 0>
+Popped key: <Transition at t=7134026, gate z13 -> 1>
+Popped key: <Transition at t=7186028, gate x12 -> 1>
+Popped key: <Transition at t=7198026, gate x12 -> 0>
+Popped key: <Transition at t=7186029, gate z12 -> 1>
+Popped key: <Transition at t=7198027, gate z12 -> 0>
+Popped key: <Transition at t=7202028, gate x12 -> 1>
+Popped key: <Transition at t=7198028, gate y13 -> 0>
+Popped key: <Transition at t=7202029, gate z12 -> 1>
+Popped key: <Transition at t=7198029, gate z13 -> 0>
+Popped key: <Transition at t=7214026, gate x12 -> 0>
+Popped key: <Transition at t=7294024, gate x12 -> 1>
+Popped key: <Transition at t=7214027, gate z12 -> 0>
+Popped key: <Transition at t=7294025, gate z12 -> 1>
+Popped key: <Transition at t=7214028, gate y13 -> 0>
+Popped key: <Transition at t=7294026, gate y13 -> 1>
+Popped key: <Transition at t=7358024, gate x12 -> 0>
+Popped key: <Transition at t=7294027, gate z13 -> 1>
+Popped key: <Transition at t=7358025, gate z12 -> 0>
+Popped key: <Transition at t=7364018, gate x12 -> 1>
+Popped key: <Transition at t=7358026, gate y13 -> 0>
+Popped key: <Transition at t=7364019, gate z12 -> 1>
+Popped key: <Transition at t=7358027, gate z13 -> 0>
+Popped key: <Transition at t=7364020, gate y13 -> 1>
+Popped key: <Transition at t=7370026, gate x12 -> 0>
+Popped key: <Transition at t=7364021, gate z13 -> 1>
+Popped key: <Transition at t=7370027, gate z12 -> 0>
+Popped key: <Transition at t=7422023, gate x12 -> 1>
+Popped key: <Transition at t=7370028, gate y13 -> 0>
+Popped key: <Transition at t=7422024, gate z12 -> 1>
+Popped key: <Transition at t=7370029, gate z13 -> 0>
+Popped key: <Transition at t=7422025, gate y13 -> 1>
+Popped key: <Transition at t=7428019, gate x12 -> 0>
+Popped key: <Transition at t=7422026, gate z13 -> 1>
+Popped key: <Transition at t=7428020, gate z12 -> 0>
+Popped key: <Transition at t=7434027, gate x12 -> 1>
+Popped key: <Transition at t=7428021, gate y13 -> 0>
+Popped key: <Transition at t=7434028, gate z12 -> 1>
+Popped key: <Transition at t=7428022, gate z13 -> 0>
+Popped key: <Transition at t=7434029, gate y13 -> 1>
+Popped key: <Transition at t=7506026, gate x12 -> 0>
+Popped key: <Transition at t=7434030, gate z13 -> 1>
+Popped key: <Transition at t=7506027, gate z12 -> 0>
+Popped key: <Transition at t=7182029, gate y13 -> 0>
+Popped key: <Transition at t=7186030, gate y13 -> 1>
+Popped key: <Transition at t=7570026, gate x12 -> 1>
+Popped key: <Transition at t=7186031, gate z13 -> 1>
+Popped key: <Transition at t=7570027, gate z12 -> 1>
+Popped key: <Transition at t=7614023, gate x12 -> 0>
+Popped key: <Transition at t=7570028, gate y13 -> 1>
+Popped key: <Transition at t=7614024, gate z12 -> 0>
+Popped key: <Transition at t=7620017, gate x12 -> 1>
+Popped key: <Transition at t=7614025, gate y13 -> 0>
+Popped key: <Transition at t=7620018, gate z12 -> 1>
+Popped key: <Transition at t=7614026, gate z13 -> 0>
+Popped key: <Transition at t=7620019, gate y13 -> 1>
+Popped key: <Transition at t=7626025, gate x12 -> 0>
+Popped key: <Transition at t=7620020, gate z13 -> 1>
+Popped key: <Transition at t=7626026, gate z12 -> 0>
+Popped key: <Transition at t=7646023, gate x12 -> 1>
+Popped key: <Transition at t=7626027, gate y13 -> 0>
+Popped key: <Transition at t=7646024, gate z12 -> 1>
+Popped key: <Transition at t=7626028, gate z13 -> 0>
+Popped key: <Transition at t=7646025, gate y13 -> 1>
+Popped key: <Transition at t=7666024, gate x12 -> 0>
+Popped key: <Transition at t=7646026, gate z13 -> 1>
+Popped key: <Transition at t=7666025, gate z12 -> 0>
+Popped key: <Transition at t=7202030, gate y13 -> 1>
+Popped key: <Transition at t=7690017, gate x12 -> 1>
+Popped key: <Transition at t=7182030, gate z13 -> 0>
+Popped key: <Transition at t=7690018, gate z12 -> 1>
+Popped key: <Transition at t=7506028, gate y13 -> 0>
+Popped key: <Transition at t=7690019, gate y13 -> 1>
+Popped key: <Transition at t=7506029, gate z13 -> 0>
+Popped key: <Transition at t=7690020, gate z13 -> 1>
+Popped key: <Transition at t=7710025, gate x12 -> 0>
+Popped key: <Transition at t=7666026, gate y13 -> 0>
+Popped key: <Transition at t=7710026, gate z12 -> 0>
+Popped key: <Transition at t=7666027, gate z13 -> 0>
+Popped key: <Transition at t=7714027, gate x12 -> 1>
+Popped key: <Transition at t=7710027, gate y13 -> 0>
+Popped key: <Transition at t=7714028, gate z12 -> 1>
+Popped key: <Transition at t=7726025, gate x12 -> 0>
+Popped key: <Transition at t=7714029, gate y13 -> 1>
+Popped key: <Transition at t=7726026, gate z12 -> 0>
+Popped key: <Transition at t=7714030, gate z13 -> 1>
+Popped key: <Transition at t=7806023, gate x12 -> 1>
+Popped key: <Transition at t=7726027, gate y13 -> 0>
+Popped key: <Transition at t=7806024, gate z12 -> 1>
+Popped key: <Transition at t=7726028, gate z13 -> 0>
+Popped key: <Transition at t=7870023, gate x12 -> 0>
+Popped key: <Transition at t=7876017, gate x12 -> 1>
+Popped key: <Transition at t=7870024, gate z12 -> 0>
+Popped key: <Transition at t=7876018, gate z12 -> 1>
+Popped key: <Transition at t=7882025, gate x12 -> 0>
+Popped key: <Transition at t=7876019, gate y13 -> 1>
+Popped key: <Transition at t=7882026, gate z12 -> 0>
+Popped key: <Transition at t=7876020, gate z13 -> 1>
+Popped key: <Transition at t=7934022, gate x12 -> 1>
+Popped key: <Transition at t=7940018, gate x12 -> 0>
+Popped key: <Transition at t=7934023, gate z12 -> 1>
+Popped key: <Transition at t=7940019, gate z12 -> 0>
+Popped key: <Transition at t=7934024, gate y13 -> 1>
+Popped key: <Transition at t=7940020, gate y13 -> 0>
+Popped key: <Transition at t=7806025, gate y13 -> 1>
+Popped key: <Transition at t=7870025, gate y13 -> 0>
+Popped key: <Transition at t=8082025, gate x12 -> 1>
+Popped key: <Transition at t=7870026, gate z13 -> 0>
+Popped key: <Transition at t=8082026, gate z12 -> 1>
+Popped key: <Transition at t=7882027, gate y13 -> 0>
+Popped key: <Transition at t=8094023, gate x12 -> 0>
+Popped key: <Transition at t=7806026, gate z13 -> 1>
+Popped key: <Transition at t=8094024, gate z12 -> 0>
+Popped key: <Transition at t=7940021, gate z13 -> 0>
+Popped key: <Transition at t=8082027, gate y13 -> 1>
+Popped key: <Transition at t=8094025, gate y13 -> 0>
+Popped key: <Transition at t=8082028, gate z13 -> 1>
+Popped key: <Transition at t=8138024, gate x12 -> 1>
+Popped key: <Transition at t=8094026, gate z13 -> 0>
+Popped key: <Transition at t=8138025, gate z12 -> 1>
+Popped key: <Transition at t=8158022, gate x12 -> 0>
+Popped key: <Transition at t=8138026, gate y13 -> 1>
+Popped key: <Transition at t=8158023, gate z12 -> 0>
+Popped key: <Transition at t=8138027, gate z13 -> 1>
+Popped key: <Transition at t=8178023, gate x12 -> 1>
+Popped key: <Transition at t=8192000, gate x13 -> 0>
+Popped key: <Transition at t=8178024, gate z12 -> 1>
+Popped key: <Transition at t=8206031, gate x13 -> 1>
+Popped key: <Transition at t=8178025, gate y13 -> 1>
+Popped key: <Transition at t=8206032, gate z13 -> 0>
+Popped key: <Transition at t=8210032, gate x13 -> 0>
+Popped key: <Transition at t=8158024, gate y13 -> 0>
+Popped key: <Transition at t=8210033, gate z13 -> 1>
+Popped key: <Transition at t=8158025, gate z13 -> 0>
+Popped key: <Transition at t=8222030, gate x13 -> 1>
+Popped key: <Transition at t=8318028, gate x13 -> 0>
+Popped key: <Transition at t=8222031, gate z13 -> 1>
+Popped key: <Transition at t=8318029, gate z13 -> 0>
+Popped key: <Transition at t=8452023, gate x13 -> 1>
+Popped key: <Transition at t=8458031, gate x13 -> 0>
+Popped key: <Transition at t=8452024, gate z13 -> 1>
+Popped key: <Transition at t=8458032, gate z13 -> 0>
+Popped key: <Transition at t=8530030, gate x13 -> 1>
+Popped key: <Transition at t=8626029, gate x13 -> 0>
+Popped key: <Transition at t=8530031, gate z13 -> 1>
+Popped key: <Transition at t=8626030, gate z13 -> 0>
+Popped key: <Transition at t=8690028, gate x13 -> 1>
+Popped key: <Transition at t=8714021, gate x13 -> 0>
+Popped key: <Transition at t=8690029, gate z13 -> 1>
+Popped key: <Transition at t=8714022, gate z13 -> 0>
+Popped key: <Transition at t=8750029, gate x13 -> 0>
+Popped key: <Transition at t=8802030, gate x13 -> 1>
+Popped key: <Transition at t=8958026, gate x13 -> 0>
+Popped key: <Transition at t=9118027, gate x13 -> 1>
+Popped key: <Transition at t=8958027, gate z13 -> 0>
+Popped key: <Transition at t=9118028, gate z13 -> 1>
+Popped key: <Transition at t=9230030, gate x13 -> 1>
+Popped key: <Transition at t=9262029, gate x13 -> 1>
+Popped key: <Transition at t=9470026, gate x13 -> 0>
+Popped key: <Transition at t=8802031, gate z13 -> 1>
+Popped key: <Transition at t=9476022, gate x13 -> 1>
+Popped key: <Transition at t=9482030, gate x13 -> 0>
+Popped key: <Transition at t=9476023, gate z13 -> 1>
+Popped key: <Transition at t=9482031, gate z13 -> 0>
+Popped key: <Transition at t=9668020, gate x13 -> 0>
+Popped key: <Transition at t=9470027, gate z13 -> 0>
+Popped key: <Transition at t=9714027, gate x13 -> 1>
+Popped key: <Transition at t=9738020, gate x13 -> 0>
+Popped key: <Transition at t=9714028, gate z13 -> 1>
+Popped key: <Transition at t=9738021, gate z13 -> 0>
+Popped key: <Transition at t=9930028, gate x13 -> 1>
+Popped key: <Transition at t=9982025, gate x13 -> 0>
+Popped key: <Transition at t=9930029, gate z13 -> 1>
+Popped key: <Transition at t=9982026, gate z13 -> 0>
+Popped key: <Transition at t=10130028, gate x13 -> 0>
+Popped key: <Transition at t=10162027, gate x13 -> 1>
+Popped key: <Transition at t=10226026, gate x13 -> 0>
+Popped key: <Transition at t=10366027, gate x13 -> 1>
+Popped key: <Transition at t=10442029, gate x13 -> 0>
+Popped key: <Transition at t=10366028, gate z13 -> 1>
+Popped key: <Transition at t=10442030, gate z13 -> 0>
+Popped key: <Transition at t=10494026, gate x13 -> 1>
+Popped key: <Transition at t=10500022, gate x13 -> 0>
+Popped key: <Transition at t=10506030, gate x13 -> 1>
+Popped key: <Transition at t=10500023, gate z13 -> 0>
+Popped key: <Transition at t=10506031, gate z13 -> 1>
+Popped key: <Transition at t=10578029, gate x13 -> 0>
+Popped key: <Transition at t=10162028, gate z13 -> 1>
+Popped key: <Transition at t=10226027, gate z13 -> 0>
+Popped key: <Transition at t=10494027, gate z13 -> 1>
+Popped key: <Transition at t=10578030, gate z13 -> 0>
+Popped key: <Transition at t=10674028, gate x13 -> 1>
+Popped key: <Transition at t=10850029, gate x13 -> 0>
+Popped key: <Transition at t=10878026, gate x13 -> 1>
+Popped key: <Transition at t=10954028, gate x13 -> 0>
+Popped key: <Transition at t=10878027, gate z13 -> 1>
+Popped key: <Transition at t=10954029, gate z13 -> 0>
+Popped key: <Transition at t=11006025, gate x13 -> 1>
+Popped key: <Transition at t=11186027, gate x13 -> 1>
+Popped key: <Transition at t=10674029, gate z13 -> 1>
+Popped key: <Transition at t=10850030, gate z13 -> 0>
+Popped key: <Transition at t=11278029, gate x13 -> 0>
+Popped key: <Transition at t=11282030, gate x13 -> 1>
+Popped key: <Transition at t=11278030, gate z13 -> 0>
+Popped key: <Transition at t=11282031, gate z13 -> 1>
+Popped key: <Transition at t=11294028, gate x13 -> 0>
+Popped key: <Transition at t=11454026, gate x13 -> 0>
+Popped key: <Transition at t=11294029, gate z13 -> 0>
+Popped key: <Transition at t=11460020, gate x13 -> 1>
+Popped key: <Transition at t=11466028, gate x13 -> 0>
+Popped key: <Transition at t=11460021, gate z13 -> 1>
+Popped key: <Transition at t=11466029, gate z13 -> 0>
+Popped key: <Transition at t=11530029, gate x13 -> 1>
+Popped key: <Transition at t=11006026, gate z13 -> 1>
+Popped key: <Transition at t=11530030, gate z13 -> 1>
+Popped key: <Transition at t=11722027, gate x13 -> 0>
+Popped key: <Transition at t=11786019, gate x13 -> 1>
+Popped key: <Transition at t=11722028, gate z13 -> 0>
+Popped key: <Transition at t=11786020, gate z13 -> 1>
+Popped key: <Transition at t=11806027, gate x13 -> 0>
+Popped key: <Transition at t=11810029, gate x13 -> 1>
+Popped key: <Transition at t=11806028, gate z13 -> 0>
+Popped key: <Transition at t=11810030, gate z13 -> 1>
+Popped key: <Transition at t=11822027, gate x13 -> 0>
+Popped key: <Transition at t=12030024, gate x13 -> 1>
+Popped key: <Transition at t=11822028, gate z13 -> 0>
+Popped key: <Transition at t=12030025, gate z13 -> 1>
+Popped key: <Transition at t=12036020, gate x13 -> 0>
+Popped key: <Transition at t=12178027, gate x13 -> 1>
+Popped key: <Transition at t=12036021, gate z13 -> 0>
+Popped key: <Transition at t=12178028, gate z13 -> 1>
+Popped key: <Transition at t=12190025, gate x13 -> 0>
+Popped key: <Transition at t=12234026, gate x13 -> 1>
+Popped key: <Transition at t=12190026, gate z13 -> 0>
+Popped key: <Transition at t=12234027, gate z13 -> 1>
+Popped key: <Transition at t=12254024, gate x13 -> 0>
+Popped key: <Transition at t=12302030, gate x13 -> 1>
+Popped key: <Transition at t=12254025, gate z13 -> 0>
+Popped key: <Transition at t=12302031, gate z13 -> 1>
+Popped key: <Transition at t=12318029, gate x13 -> 1>
+Popped key: <Transition at t=12322031, gate x13 -> 0>
+Popped key: <Transition at t=12334029, gate x13 -> 1>
+Popped key: <Transition at t=12414027, gate x13 -> 0>
+Popped key: <Transition at t=12334030, gate z13 -> 1>
+Popped key: <Transition at t=12414028, gate z13 -> 0>
+Popped key: <Transition at t=12490029, gate x13 -> 1>
+Popped key: <Transition at t=12322032, gate z13 -> 0>
+Popped key: <Transition at t=12542026, gate x13 -> 0>
+Popped key: <Transition at t=12490030, gate z13 -> 1>
+Popped key: <Transition at t=12542027, gate z13 -> 0>
+Popped key: <Transition at t=12548022, gate x13 -> 1>
+Popped key: <Transition at t=12554030, gate x13 -> 0>
+Popped key: <Transition at t=12548023, gate z13 -> 1>
+Popped key: <Transition at t=12554031, gate z13 -> 0>
+Popped key: <Transition at t=12626029, gate x13 -> 1>
+Popped key: <Transition at t=12722028, gate x13 -> 0>
+Popped key: <Transition at t=12626030, gate z13 -> 1>
+Popped key: <Transition at t=12722029, gate z13 -> 0>
+Popped key: <Transition at t=12786027, gate x13 -> 1>
+Popped key: <Transition at t=12810020, gate x13 -> 0>
+Popped key: <Transition at t=12786028, gate z13 -> 1>
+Popped key: <Transition at t=12810021, gate z13 -> 0>
+Popped key: <Transition at t=13054025, gate x13 -> 0>
+Popped key: <Transition at t=13060021, gate x13 -> 1>
+Popped key: <Transition at t=13234027, gate x13 -> 0>
+Popped key: <Transition at t=13326029, gate x13 -> 1>
+Popped key: <Transition at t=13234028, gate z13 -> 0>
+Popped key: <Transition at t=13326030, gate z13 -> 1>
+Popped key: <Transition at t=13342028, gate x13 -> 1>
+Popped key: <Transition at t=13346030, gate x13 -> 0>
+Popped key: <Transition at t=13358028, gate x13 -> 1>
+Popped key: <Transition at t=13346031, gate z13 -> 0>
+Popped key: <Transition at t=13358029, gate z13 -> 1>
+Popped key: <Transition at t=13566025, gate x13 -> 0>
+Popped key: <Transition at t=13572021, gate x13 -> 1>
+Popped key: <Transition at t=13566026, gate z13 -> 0>
+Popped key: <Transition at t=13572022, gate z13 -> 1>
+Popped key: <Transition at t=13578029, gate x13 -> 0>
+Popped key: <Transition at t=13060022, gate z13 -> 1>
+Popped key: <Transition at t=13578030, gate z13 -> 0>
+Popped key: <Transition at t=13650028, gate x13 -> 1>
+Popped key: <Transition at t=13764019, gate x13 -> 0>
+Popped key: <Transition at t=13650029, gate z13 -> 1>
+Popped key: <Transition at t=13764020, gate z13 -> 0>
+Popped key: <Transition at t=13810026, gate x13 -> 1>
+Popped key: <Transition at t=13834019, gate x13 -> 0>
+Popped key: <Transition at t=13810027, gate z13 -> 1>
+Popped key: <Transition at t=13834020, gate z13 -> 0>
+Popped key: <Transition at t=14014025, gate x13 -> 1>
+Popped key: <Transition at t=14078024, gate x13 -> 0>
+Popped key: <Transition at t=14014026, gate z13 -> 1>
+Popped key: <Transition at t=14078025, gate z13 -> 0>
+Popped key: <Transition at t=14238025, gate x13 -> 1>
+Popped key: <Transition at t=14282026, gate x13 -> 0>
+Popped key: <Transition at t=14238026, gate z13 -> 1>
+Popped key: <Transition at t=14282027, gate z13 -> 0>
+Popped key: <Transition at t=14302024, gate x13 -> 1>
+Popped key: <Transition at t=14322025, gate x13 -> 0>
+Popped key: <Transition at t=14302025, gate z13 -> 1>
+Popped key: <Transition at t=14322026, gate z13 -> 0>
+Popped key: <Transition at t=14350029, gate x13 -> 1>
+Popped key: <Transition at t=14354030, gate x13 -> 0>
+Popped key: <Transition at t=14350030, gate z13 -> 1>
+Popped key: <Transition at t=14354031, gate z13 -> 0>
+Popped key: <Transition at t=14462026, gate x13 -> 1>
+Popped key: <Transition at t=14538028, gate x13 -> 0>
+Popped key: <Transition at t=14462027, gate z13 -> 1>
+Popped key: <Transition at t=14538029, gate z13 -> 0>
+Popped key: <Transition at t=14590025, gate x13 -> 1>
+Popped key: <Transition at t=14596021, gate x13 -> 0>
+Popped key: <Transition at t=14590026, gate z13 -> 1>
+Popped key: <Transition at t=14596022, gate z13 -> 0>
+Popped key: <Transition at t=14770027, gate x13 -> 1>
+Popped key: <Transition at t=14834026, gate x13 -> 0>
+Popped key: <Transition at t=14770028, gate z13 -> 1>
+Popped key: <Transition at t=14834027, gate z13 -> 0>
+Popped key: <Transition at t=14858019, gate x13 -> 1>
+Popped key: <Transition at t=14946028, gate x13 -> 0>
+Popped key: <Transition at t=14858020, gate z13 -> 1>
+Popped key: <Transition at t=14946029, gate z13 -> 0>
+Popped key: <Transition at t=14974025, gate x13 -> 1>
+Popped key: <Transition at t=15050027, gate x13 -> 0>
+Popped key: <Transition at t=14974026, gate z13 -> 1>
+Popped key: <Transition at t=15050028, gate z13 -> 0>
+Popped key: <Transition at t=15102024, gate x13 -> 1>
+Popped key: <Transition at t=15108020, gate x13 -> 0>
+Popped key: <Transition at t=15102025, gate z13 -> 1>
+Popped key: <Transition at t=15108021, gate z13 -> 0>
+Popped key: <Transition at t=15282026, gate x13 -> 1>
+Popped key: <Transition at t=15306026, gate x13 -> 0>
+Popped key: <Transition at t=15282027, gate z13 -> 1>
+Popped key: <Transition at t=15306027, gate z13 -> 0>
+Popped key: <Transition at t=15326024, gate x13 -> 1>
+Popped key: <Transition at t=15374028, gate x13 -> 0>
+Popped key: <Transition at t=15326025, gate z13 -> 1>
+Popped key: <Transition at t=15374029, gate z13 -> 0>
+Popped key: <Transition at t=15378029, gate x13 -> 1>
+Popped key: <Transition at t=15390027, gate x13 -> 0>
+Popped key: <Transition at t=15378030, gate z13 -> 1>
+Popped key: <Transition at t=15390028, gate z13 -> 0>
+Popped key: <Transition at t=15394029, gate x13 -> 1>
+Popped key: <Transition at t=15406027, gate x13 -> 0>
+Popped key: <Transition at t=15394030, gate z13 -> 1>
+Popped key: <Transition at t=15406028, gate z13 -> 0>
+Popped key: <Transition at t=15486025, gate x13 -> 1>
+Popped key: <Transition at t=15550025, gate x13 -> 0>
+Popped key: <Transition at t=15486026, gate z13 -> 1>
+Popped key: <Transition at t=15550026, gate z13 -> 0>
+Popped key: <Transition at t=15556019, gate x13 -> 1>
+Popped key: <Transition at t=15562027, gate x13 -> 0>
+Popped key: <Transition at t=15556020, gate z13 -> 1>
+Popped key: <Transition at t=15562028, gate z13 -> 0>
+Popped key: <Transition at t=15614024, gate x13 -> 1>
+Popped key: <Transition at t=15620020, gate x13 -> 0>
+Popped key: <Transition at t=15614025, gate z13 -> 1>
+Popped key: <Transition at t=15620021, gate z13 -> 0>
+Popped key: <Transition at t=15626028, gate x13 -> 1>
+Popped key: <Transition at t=15698027, gate x13 -> 0>
+Popped key: <Transition at t=15626029, gate z13 -> 1>
+Popped key: <Transition at t=15698028, gate z13 -> 0>
+Popped key: <Transition at t=15762027, gate x13 -> 1>
+Popped key: <Transition at t=15806024, gate x13 -> 0>
+Popped key: <Transition at t=15762028, gate z13 -> 1>
+Popped key: <Transition at t=15806025, gate z13 -> 0>
+Popped key: <Transition at t=15812018, gate x13 -> 1>
+Popped key: <Transition at t=15818026, gate x13 -> 0>
+Popped key: <Transition at t=15812019, gate z13 -> 1>
+Popped key: <Transition at t=15818027, gate z13 -> 0>
+Popped key: <Transition at t=15838024, gate x13 -> 1>
+Popped key: <Transition at t=15858025, gate x13 -> 0>
+Popped key: <Transition at t=15838025, gate z13 -> 1>
+Popped key: <Transition at t=15858026, gate z13 -> 0>
+Popped key: <Transition at t=15882018, gate x13 -> 1>
+Popped key: <Transition at t=15902026, gate x13 -> 0>
+Popped key: <Transition at t=15882019, gate z13 -> 1>
+Popped key: <Transition at t=15902027, gate z13 -> 0>
+Popped key: <Transition at t=15906028, gate x13 -> 1>
+Popped key: <Transition at t=15918026, gate x13 -> 0>
+Popped key: <Transition at t=15906029, gate z13 -> 1>
+Popped key: <Transition at t=15918027, gate z13 -> 0>
+Popped key: <Transition at t=15998024, gate x13 -> 1>
+Popped key: <Transition at t=16062024, gate x13 -> 0>
+Popped key: <Transition at t=15998025, gate z13 -> 1>
+Popped key: <Transition at t=16062025, gate z13 -> 0>
+Popped key: <Transition at t=16068018, gate x13 -> 1>
+Popped key: <Transition at t=16074026, gate x13 -> 0>
+Popped key: <Transition at t=16068019, gate z13 -> 1>
+Popped key: <Transition at t=16074027, gate z13 -> 0>
+Popped key: <Transition at t=16126023, gate x13 -> 1>
+Popped key: <Transition at t=16132019, gate x13 -> 0>
+Popped key: <Transition at t=16126024, gate z13 -> 1>
+Popped key: <Transition at t=16132020, gate z13 -> 0>
+Popped key: <Transition at t=16274026, gate x13 -> 1>
+Popped key: <Transition at t=16274027, gate z13 -> 1>
+Popped key: <Transition at t=16286024, gate x13 -> 0>
+Popped key: <Transition at t=16286025, gate z13 -> 0>
+Popped key: <Transition at t=16330025, gate x13 -> 1>
+Popped key: <Transition at t=16330026, gate z13 -> 1>
+Popped key: <Transition at t=16350023, gate x13 -> 0>
+Popped key: <Transition at t=16350024, gate z13 -> 0>
+Popped key: <Transition at t=16370024, gate x13 -> 1>
+Popped key: <Transition at t=16370025, gate z13 -> 1>
+14033 z13 1
+18034 z13 0
+30032 z13 1
+126030 z13 0
+260025 z13 1
+266033 z13 0
+338032 z13 1
+434031 z13 0
+498030 z13 1
+522023 z13 0
+558031 z13 0
+610032 z13 1
+766028 z13 0
+926029 z13 1
+1284024 z13 1
+1290032 z13 0
+1476022 z13 0
+1522029 z13 1
+1546022 z13 0
+1738030 z13 1
+1938030 z13 0
+1970029 z13 1
+2174029 z13 1
+2250031 z13 0
+2302028 z13 1
+2308024 z13 0
+2314032 z13 1
+2482030 z13 1
+2686028 z13 1
+2762030 z13 0
+2814027 z13 1
+2994029 z13 1
+3086031 z13 0
+3090032 z13 1
+3102030 z13 0
+3262028 z13 0
+3268022 z13 1
+3274030 z13 0
+3530029 z13 0
+3594021 z13 1
+3614029 z13 0
+3618031 z13 1
+3630029 z13 0
+3844022 z13 0
+3986029 z13 1
+3998027 z13 0
+4042028 z13 1
+4062026 z13 0
+4126031 z13 1
+4130033 z13 0
+4142031 z13 1
+4222029 z13 0
+4298031 z13 1
+4350028 z13 0
+4356024 z13 1
+4362032 z13 0
+4434031 z13 1
+4530030 z13 0
+4594029 z13 1
+4618022 z13 0
+4868023 z13 1
+5042029 z13 0
+5134031 z13 1
+5150030 z13 1
+5154032 z13 0
+5166030 z13 1
+5374027 z13 0
+5886026 z13 0
+6046027 z13 1
+6090028 z13 0
+6110026 z13 1
+6130027 z13 0
+6158031 z13 1
+6162032 z13 0
+6270028 z13 1
+6346030 z13 0
+6398027 z13 1
+6404023 z13 0
+6578029 z13 1
+6642028 z13 0
+6666021 z13 1
+6754030 z13 0
+6910026 z13 1
+6916022 z13 0
+7090028 z13 1
+7114028 z13 0
+7134026 z13 1
+7182030 z13 0
+7198029 z13 0
+7294027 z13 1
+7358027 z13 0
+7364021 z13 1
+7370029 z13 0
+7422026 z13 1
+7428022 z13 0
+7434030 z13 1
+7614026 z13 0
+7620020 z13 1
+7626028 z13 0
+7646026 z13 1
+7666027 z13 0
+7690020 z13 1
+7714030 z13 1
+7726028 z13 0
+7806026 z13 1
+7870026 z13 0
+7876020 z13 1
+7940021 z13 0
+8082028 z13 1
+8094026 z13 0
+8138027 z13 1
+8158025 z13 0
+8206032 z13 0
+8210033 z13 1
+8222031 z13 1
+8318029 z13 0
+8452024 z13 1
+8458032 z13 0
+8530031 z13 1
+8626030 z13 0
+8690029 z13 1
+8714022 z13 0
+9118028 z13 1
+9482031 z13 0
+9714028 z13 1
+9738021 z13 0
+9930029 z13 1
+9982026 z13 0
+10226027 z13 0
+10366028 z13 1
+10442030 z13 0
+10494027 z13 1
+10506031 z13 1
+10578030 z13 0
+10674029 z13 1
+10850030 z13 0
+10878027 z13 1
+10954029 z13 0
+11006026 z13 1
+11282031 z13 1
+11294029 z13 0
+11460021 z13 1
+11466029 z13 0
+11722028 z13 0
+11786020 z13 1
+11806028 z13 0
+11810030 z13 1
+11822028 z13 0
+12030025 z13 1
+12036021 z13 0
+12178028 z13 1
+12190026 z13 0
+12234027 z13 1
+12254025 z13 0
+12302031 z13 1
+12414028 z13 0
+12490030 z13 1
+12542027 z13 0
+12548023 z13 1
+12554031 z13 0
+12626030 z13 1
+12722029 z13 0
+12786028 z13 1
+12810021 z13 0
+13326030 z13 1
+13346031 z13 0
+13358029 z13 1
+13566026 z13 0
+13572022 z13 1
+13578030 z13 0
+13650029 z13 1
+13764020 z13 0
+13810027 z13 1
+13834020 z13 0
+14014026 z13 1
+14078025 z13 0
+14238026 z13 1
+14282027 z13 0
+14302025 z13 1
+14322026 z13 0
+14350030 z13 1
+14354031 z13 0
+14462027 z13 1
+14538029 z13 0
+14590026 z13 1
+14596022 z13 0
+14770028 z13 1
+14834027 z13 0
+14858020 z13 1
+14946029 z13 0
+14974026 z13 1
+15050028 z13 0
+15102025 z13 1
+15108021 z13 0
+15282027 z13 1
+15306027 z13 0
+15326025 z13 1
+15374029 z13 0
+15378030 z13 1
+15390028 z13 0
+15394030 z13 1
+15406028 z13 0
+15486026 z13 1
+15550026 z13 0
+15556020 z13 1
+15562028 z13 0
+15614025 z13 1
+15620021 z13 0
+15626029 z13 1
+15698028 z13 0
+15762028 z13 1
+15806025 z13 0
+15812019 z13 1
+15818027 z13 0
+15838025 z13 1
+15858026 z13 0
+15882019 z13 1
+15902027 z13 0
+15906029 z13 1
+15918027 z13 0
+15998025 z13 1
+16062025 z13 0
+16068019 z13 1
+16074027 z13 0
+16126024 z13 1
+16132020 z13 0
+16274027 z13 1
+16286025 z13 0
+16330026 z13 1
+16350024 z13 0
+16370025 z13 1
