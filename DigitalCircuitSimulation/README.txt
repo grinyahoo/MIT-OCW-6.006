@@ -1,7 +1,8 @@
 Circuit Simulation code for MIT 6.006 Fall 2011 PS2
 
 The code distribution contains the following files:
-  * circuit.py - implementation of the circuit simulator
+  * _circuit.py - original problem set implementation of the circuit simulator
+  * circuit.py - implementation of the circuit simulator with modified PriorityQueue implementation 
   * circuit_test.py - unit test for circuit.py
   * layout.rb - generates circuit layouts and embeds them in input files
   * circuit.rb - Ruby implementation of the circuit simulator used by layout.rb
