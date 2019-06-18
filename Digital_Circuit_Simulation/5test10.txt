@@ -1,0 +1,2051 @@
+New queue element appended <Transition at t=0, gate a1 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a10 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a11 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a12 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a13 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a2 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a3 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a4 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a5 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a6 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a8 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate a9 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b1 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b10 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b11 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b12 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b13 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b2 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b3 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b4 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b5 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b6 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b8 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate b9 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+--- Queue End
+New queue element appended <Transition at t=0, gate z0 -> 0>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+26. <Transition at t=0, gate z0 -> 0>
+--- Queue End
+New queue element appended <Transition at t=10, gate z0 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+26. <Transition at t=0, gate z0 -> 0>
+27. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+New queue element appended <Transition at t=4000, gate z0 -> 0>
+--- Queue Start
+0. <Transition at t=0, gate a1 -> 1>
+1. <Transition at t=0, gate a10 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a12 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate a4 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=0, gate b11 -> 1>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+26. <Transition at t=0, gate z0 -> 0>
+27. <Transition at t=10, gate z0 -> 1>
+28. <Transition at t=4000, gate z0 -> 0>
+--- Queue End
+Simulation starts
+
+Popped key: <Transition at t=0, gate a1 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate a10 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate a12 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate a4 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b11 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a10 -> 1>
+1. <Transition at t=0, gate a12 -> 1>
+2. <Transition at t=0, gate a11 -> 1>
+3. <Transition at t=0, gate a4 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a2 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate b11 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate a8 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=0, gate b7 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+26. <Transition at t=0, gate z0 -> 0>
+27. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a10 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate a11 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate a2 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate a8 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a11 -> 1>
+1. <Transition at t=0, gate a12 -> 1>
+2. <Transition at t=0, gate a2 -> 1>
+3. <Transition at t=0, gate a4 -> 1>
+4. <Transition at t=0, gate a13 -> 1>
+5. <Transition at t=0, gate a8 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate b11 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate a6 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate b3 -> 1>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=10, gate z0 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+26. <Transition at t=0, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate a11 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate a12 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate a13 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate a6 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b3 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a12 -> 1>
+1. <Transition at t=0, gate a13 -> 1>
+2. <Transition at t=0, gate a2 -> 1>
+3. <Transition at t=0, gate a4 -> 1>
+4. <Transition at t=0, gate a6 -> 1>
+5. <Transition at t=0, gate a8 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate b11 -> 1>
+8. <Transition at t=0, gate a5 -> 1>
+9. <Transition at t=0, gate b3 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b13 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=10, gate z0 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+25. <Transition at t=0, gate b9 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a12 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate a13 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate a4 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate a5 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b13 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a13 -> 1>
+1. <Transition at t=0, gate a4 -> 1>
+2. <Transition at t=0, gate a2 -> 1>
+3. <Transition at t=0, gate a5 -> 1>
+4. <Transition at t=0, gate a6 -> 1>
+5. <Transition at t=0, gate a8 -> 1>
+6. <Transition at t=0, gate a3 -> 1>
+7. <Transition at t=0, gate b11 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b3 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b1 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=10, gate z0 -> 1>
+24. <Transition at t=0, gate b8 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a13 -> 1>
+Swap<Transition at t=0, gate b8 -> 1><Transition at t=0, gate a2 -> 1>
+Swap<Transition at t=0, gate b8 -> 1><Transition at t=0, gate a3 -> 1>
+Swap<Transition at t=0, gate b8 -> 1><Transition at t=0, gate b1 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a2 -> 1>
+1. <Transition at t=0, gate a4 -> 1>
+2. <Transition at t=0, gate a3 -> 1>
+3. <Transition at t=0, gate a5 -> 1>
+4. <Transition at t=0, gate a6 -> 1>
+5. <Transition at t=0, gate a8 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b11 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b3 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=0, gate a9 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+23. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a2 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate a3 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate a8 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate a9 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a3 -> 1>
+1. <Transition at t=0, gate a4 -> 1>
+2. <Transition at t=0, gate a8 -> 1>
+3. <Transition at t=0, gate a5 -> 1>
+4. <Transition at t=0, gate a6 -> 1>
+5. <Transition at t=0, gate a9 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b11 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b3 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b12 -> 1>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+22. <Transition at t=0, gate b6 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a3 -> 1>
+Swap<Transition at t=0, gate b6 -> 1><Transition at t=0, gate a4 -> 1>
+Swap<Transition at t=0, gate b6 -> 1><Transition at t=0, gate a5 -> 1>
+Swap<Transition at t=0, gate b6 -> 1><Transition at t=0, gate b11 -> 1>
+Swap<Transition at t=0, gate b6 -> 1><Transition at t=0, gate b12 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a4 -> 1>
+1. <Transition at t=0, gate a5 -> 1>
+2. <Transition at t=0, gate a8 -> 1>
+3. <Transition at t=0, gate b11 -> 1>
+4. <Transition at t=0, gate a6 -> 1>
+5. <Transition at t=0, gate a9 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b12 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b3 -> 1>
+10. <Transition at t=0, gate a7 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b6 -> 1>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+20. <Transition at t=0, gate b4 -> 1>
+21. <Transition at t=0, gate b5 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a4 -> 1>
+Swap<Transition at t=0, gate b5 -> 1><Transition at t=0, gate a5 -> 1>
+Swap<Transition at t=0, gate b5 -> 1><Transition at t=0, gate a6 -> 1>
+Swap<Transition at t=0, gate b5 -> 1><Transition at t=0, gate a7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a5 -> 1>
+1. <Transition at t=0, gate a6 -> 1>
+2. <Transition at t=0, gate a8 -> 1>
+3. <Transition at t=0, gate b11 -> 1>
+4. <Transition at t=0, gate a7 -> 1>
+5. <Transition at t=0, gate a9 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b12 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b3 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b6 -> 1>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+20. <Transition at t=0, gate b4 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a5 -> 1>
+Swap<Transition at t=0, gate b4 -> 1><Transition at t=0, gate a6 -> 1>
+Swap<Transition at t=0, gate b4 -> 1><Transition at t=0, gate a7 -> 1>
+Swap<Transition at t=0, gate b4 -> 1><Transition at t=0, gate b3 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a6 -> 1>
+1. <Transition at t=0, gate a7 -> 1>
+2. <Transition at t=0, gate a8 -> 1>
+3. <Transition at t=0, gate b11 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate a9 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b12 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate b6 -> 1>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+19. <Transition at t=0, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate a6 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate a7 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b11 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b12 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b6 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a7 -> 1>
+1. <Transition at t=0, gate b11 -> 1>
+2. <Transition at t=0, gate a8 -> 1>
+3. <Transition at t=0, gate b12 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate a9 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b6 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate z0 -> 0>
+17. <Transition at t=0, gate b9 -> 1>
+18. <Transition at t=0, gate b2 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a7 -> 1>
+Swap<Transition at t=0, gate b2 -> 1><Transition at t=0, gate a8 -> 1>
+Swap<Transition at t=0, gate b2 -> 1><Transition at t=0, gate a9 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a8 -> 1>
+1. <Transition at t=0, gate b11 -> 1>
+2. <Transition at t=0, gate a9 -> 1>
+3. <Transition at t=0, gate b12 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate b2 -> 1>
+6. <Transition at t=0, gate b1 -> 1>
+7. <Transition at t=0, gate b6 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b10 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate z0 -> 0>
+17. <Transition at t=0, gate b9 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate a8 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate a9 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b1 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b10 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate a9 -> 1>
+1. <Transition at t=0, gate b11 -> 1>
+2. <Transition at t=0, gate b1 -> 1>
+3. <Transition at t=0, gate b12 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate b2 -> 1>
+6. <Transition at t=0, gate b10 -> 1>
+7. <Transition at t=0, gate b6 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate b8 -> 1>
+14. <Transition at t=0, gate b9 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+16. <Transition at t=0, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate a9 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b1 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b10 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b8 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b1 -> 1>
+1. <Transition at t=0, gate b11 -> 1>
+2. <Transition at t=0, gate b10 -> 1>
+3. <Transition at t=0, gate b12 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate b2 -> 1>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate b6 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=0, gate b7 -> 1>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate z0 -> 0>
+14. <Transition at t=0, gate b9 -> 1>
+15. <Transition at t=4000, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate b1 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b10 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b2 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b10 -> 1>
+1. <Transition at t=0, gate b11 -> 1>
+2. <Transition at t=0, gate b2 -> 1>
+3. <Transition at t=0, gate b12 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate b7 -> 1>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate b6 -> 1>
+8. <Transition at t=0, gate b13 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=4000, gate z0 -> 0>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate z0 -> 0>
+14. <Transition at t=0, gate b9 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b10 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b11 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b12 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b13 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b11 -> 1>
+1. <Transition at t=0, gate b12 -> 1>
+2. <Transition at t=0, gate b2 -> 1>
+3. <Transition at t=0, gate b13 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate b7 -> 1>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate b6 -> 1>
+8. <Transition at t=0, gate b9 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=4000, gate z0 -> 0>
+12. <Transition at t=10, gate z0 -> 1>
+13. <Transition at t=0, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate b11 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b12 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b13 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b6 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b12 -> 1>
+1. <Transition at t=0, gate b13 -> 1>
+2. <Transition at t=0, gate b2 -> 1>
+3. <Transition at t=0, gate b6 -> 1>
+4. <Transition at t=0, gate b3 -> 1>
+5. <Transition at t=0, gate b7 -> 1>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate z0 -> 0>
+8. <Transition at t=0, gate b9 -> 1>
+9. <Transition at t=0, gate b4 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=4000, gate z0 -> 0>
+12. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b12 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b13 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b3 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b4 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b13 -> 1>
+1. <Transition at t=0, gate b3 -> 1>
+2. <Transition at t=0, gate b2 -> 1>
+3. <Transition at t=0, gate b6 -> 1>
+4. <Transition at t=0, gate b4 -> 1>
+5. <Transition at t=0, gate b7 -> 1>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate z0 -> 0>
+8. <Transition at t=0, gate b9 -> 1>
+9. <Transition at t=10, gate z0 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+11. <Transition at t=4000, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate b13 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b2 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b2 -> 1>
+1. <Transition at t=0, gate b3 -> 1>
+2. <Transition at t=0, gate b7 -> 1>
+3. <Transition at t=0, gate b6 -> 1>
+4. <Transition at t=0, gate b4 -> 1>
+5. <Transition at t=4000, gate z0 -> 0>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate z0 -> 0>
+8. <Transition at t=0, gate b9 -> 1>
+9. <Transition at t=10, gate z0 -> 1>
+10. <Transition at t=0, gate b5 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b2 -> 1>
+Swap<Transition at t=0, gate b5 -> 1><Transition at t=0, gate b3 -> 1>
+Swap<Transition at t=0, gate b5 -> 1><Transition at t=0, gate b4 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b3 -> 1>
+1. <Transition at t=0, gate b4 -> 1>
+2. <Transition at t=0, gate b7 -> 1>
+3. <Transition at t=0, gate b6 -> 1>
+4. <Transition at t=0, gate b5 -> 1>
+5. <Transition at t=4000, gate z0 -> 0>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate z0 -> 0>
+8. <Transition at t=0, gate b9 -> 1>
+9. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b3 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b4 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b5 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b4 -> 1>
+1. <Transition at t=0, gate b5 -> 1>
+2. <Transition at t=0, gate b7 -> 1>
+3. <Transition at t=0, gate b6 -> 1>
+4. <Transition at t=10, gate z0 -> 1>
+5. <Transition at t=4000, gate z0 -> 0>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate z0 -> 0>
+8. <Transition at t=0, gate b9 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b4 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b5 -> 1>
+Swap<Transition at t=0, gate b9 -> 1><Transition at t=0, gate b6 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b5 -> 1>
+1. <Transition at t=0, gate b6 -> 1>
+2. <Transition at t=0, gate b7 -> 1>
+3. <Transition at t=0, gate b9 -> 1>
+4. <Transition at t=10, gate z0 -> 1>
+5. <Transition at t=4000, gate z0 -> 0>
+6. <Transition at t=0, gate b8 -> 1>
+7. <Transition at t=0, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate b5 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b6 -> 1>
+Swap<Transition at t=0, gate z0 -> 0><Transition at t=0, gate b9 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b6 -> 1>
+1. <Transition at t=0, gate b9 -> 1>
+2. <Transition at t=0, gate b7 -> 1>
+3. <Transition at t=0, gate z0 -> 0>
+4. <Transition at t=10, gate z0 -> 1>
+5. <Transition at t=4000, gate z0 -> 0>
+6. <Transition at t=0, gate b8 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b6 -> 1>
+Swap<Transition at t=0, gate b8 -> 1><Transition at t=0, gate b7 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b7 -> 1>
+1. <Transition at t=0, gate b9 -> 1>
+2. <Transition at t=0, gate b8 -> 1>
+3. <Transition at t=0, gate z0 -> 0>
+4. <Transition at t=10, gate z0 -> 1>
+5. <Transition at t=4000, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate b7 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=0, gate b8 -> 1>
+--- Queue Start
+0. <Transition at t=0, gate b8 -> 1>
+1. <Transition at t=0, gate b9 -> 1>
+2. <Transition at t=4000, gate z0 -> 0>
+3. <Transition at t=0, gate z0 -> 0>
+4. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b8 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate b9 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate z0 -> 0>
+--- Queue Start
+0. <Transition at t=0, gate b9 -> 1>
+1. <Transition at t=0, gate z0 -> 0>
+2. <Transition at t=4000, gate z0 -> 0>
+3. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+Popped key: <Transition at t=0, gate b9 -> 1>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=0, gate z0 -> 0>
+--- Queue Start
+0. <Transition at t=0, gate z0 -> 0>
+1. <Transition at t=10, gate z0 -> 1>
+2. <Transition at t=4000, gate z0 -> 0>
+--- Queue End
+Popped key: <Transition at t=0, gate z0 -> 0>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=10, gate z0 -> 1>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+--- Queue End
+New queue element appended <Transition at t=2000, gate x1 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1024000, gate x10 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1024000, gate x10 -> 0>
+--- Queue End
+New queue element appended <Transition at t=2048000, gate x11 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1024000, gate x10 -> 0>
+4. <Transition at t=2048000, gate x11 -> 0>
+--- Queue End
+New queue element appended <Transition at t=4096000, gate x12 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1024000, gate x10 -> 0>
+4. <Transition at t=2048000, gate x11 -> 0>
+5. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+New queue element appended <Transition at t=8192000, gate x13 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1024000, gate x10 -> 0>
+4. <Transition at t=2048000, gate x11 -> 0>
+5. <Transition at t=4096000, gate x12 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+--- Queue End
+New queue element appended <Transition at t=4000, gate x2 -> 0>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=4000, gate x2 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=2048000, gate x11 -> 0>
+5. <Transition at t=4096000, gate x12 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+--- Queue End
+New queue element appended <Transition at t=8000, gate x3 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=2048000, gate x11 -> 0>
+5. <Transition at t=4096000, gate x12 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+--- Queue End
+New queue element appended <Transition at t=16000, gate x4 -> 0>
+Swap<Transition at t=2048000, gate x11 -> 0><Transition at t=16000, gate x4 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=4096000, gate x12 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+--- Queue End
+New queue element appended <Transition at t=32000, gate x5 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=4096000, gate x12 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+--- Queue End
+New queue element appended <Transition at t=64000, gate x6 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=64000, gate x6 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+New queue element appended <Transition at t=128000, gate x7 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=8192000, gate x13 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+--- Queue End
+New queue element appended <Transition at t=256000, gate x8 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=256000, gate x8 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+--- Queue End
+New queue element appended <Transition at t=512000, gate x9 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y1 -> 0>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=1, gate y1 -> 0>
+Swap<Transition at t=4000, gate x2 -> 0><Transition at t=1, gate y1 -> 0>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=1, gate y1 -> 0>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=1, gate y1 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=10, gate z0 -> 1>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate z0 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate x2 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y10 -> 0>
+Swap<Transition at t=4000, gate x2 -> 0><Transition at t=1, gate y10 -> 0>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=1, gate y10 -> 0>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=1, gate y10 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=10, gate z0 -> 1>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y11 -> 0>
+Swap<Transition at t=8000, gate x3 -> 0><Transition at t=1, gate y11 -> 0>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=1, gate y11 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y12 -> 0>
+Swap<Transition at t=10, gate z0 -> 1><Transition at t=1, gate y12 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=2048000, gate x11 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+--- Queue End
+New queue element appended <Transition at t=1, gate y13 -> 0>
+Swap<Transition at t=2048000, gate x11 -> 0><Transition at t=1, gate y13 -> 0>
+Swap<Transition at t=16000, gate x4 -> 0><Transition at t=1, gate y13 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=16000, gate x4 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y2 -> 0>
+Swap<Transition at t=16000, gate x4 -> 0><Transition at t=1, gate y2 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y3 -> 0>
+Swap<Transition at t=32000, gate x5 -> 0><Transition at t=1, gate y3 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y4 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=64000, gate x6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=4096000, gate x12 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y5 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y5 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y5 -> 0>
+Swap<Transition at t=2000, gate x1 -> 0><Transition at t=1, gate y5 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=2000, gate x1 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=64000, gate x6 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y6 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y6 -> 0>
+Swap<Transition at t=2000, gate x1 -> 0><Transition at t=1, gate y6 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y7 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y7 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+25. <Transition at t=128000, gate x7 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y8 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+25. <Transition at t=128000, gate x7 -> 0>
+26. <Transition at t=1, gate y8 -> 0>
+--- Queue End
+New queue element appended <Transition at t=1, gate y9 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=1, gate y9 -> 0>
+Swap<Transition at t=256000, gate x8 -> 0><Transition at t=1, gate y9 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y1 -> 0>
+1. <Transition at t=1, gate y10 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y11 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=1, gate y12 -> 0>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=10, gate z0 -> 1>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+25. <Transition at t=128000, gate x7 -> 0>
+26. <Transition at t=1, gate y8 -> 0>
+27. <Transition at t=8192000, gate x13 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y1 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=1, gate y10 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=1, gate y11 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=1, gate y12 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=10, gate z0 -> 1>
+--- Queue Start
+0. <Transition at t=1, gate y10 -> 0>
+1. <Transition at t=1, gate y11 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y12 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+25. <Transition at t=128000, gate x7 -> 0>
+26. <Transition at t=1, gate y8 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y10 -> 0>
+Swap<Transition at t=1, gate y8 -> 0><Transition at t=1, gate y11 -> 0>
+Swap<Transition at t=1, gate y8 -> 0><Transition at t=1, gate y12 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y11 -> 0>
+1. <Transition at t=1, gate y12 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y8 -> 0>
+4. <Transition at t=1, gate y13 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=1, gate y2 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=16000, gate x4 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+25. <Transition at t=128000, gate x7 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y11 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y12 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y13 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y2 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=16000, gate x4 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y12 -> 0>
+1. <Transition at t=1, gate y13 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y8 -> 0>
+4. <Transition at t=1, gate y2 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=16000, gate x4 -> 0>
+10. <Transition at t=1, gate y3 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=128000, gate x7 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=1, gate y4 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+24. <Transition at t=64000, gate x6 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y12 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y13 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y2 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y3 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y4 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y13 -> 0>
+1. <Transition at t=1, gate y2 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y8 -> 0>
+4. <Transition at t=1, gate y3 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=16000, gate x4 -> 0>
+10. <Transition at t=1, gate y4 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=128000, gate x7 -> 0>
+21. <Transition at t=32000, gate x5 -> 0>
+22. <Transition at t=64000, gate x6 -> 0>
+23. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y13 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y2 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y3 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y4 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=32000, gate x5 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y2 -> 0>
+1. <Transition at t=1, gate y3 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y8 -> 0>
+4. <Transition at t=1, gate y4 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=16000, gate x4 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=128000, gate x7 -> 0>
+21. <Transition at t=4096000, gate x12 -> 0>
+22. <Transition at t=64000, gate x6 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y2 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y3 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=1, gate y4 -> 0>
+Swap<Transition at t=64000, gate x6 -> 0><Transition at t=16000, gate x4 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y3 -> 0>
+1. <Transition at t=1, gate y4 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=1, gate y8 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=10, gate z0 -> 1>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=8000, gate x3 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=128000, gate x7 -> 0>
+21. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y3 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y4 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y8 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=10, gate z0 -> 1>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=8000, gate x3 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y4 -> 0>
+1. <Transition at t=1, gate y8 -> 0>
+2. <Transition at t=1, gate y5 -> 0>
+3. <Transition at t=10, gate z0 -> 1>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=1, gate y6 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=1, gate y7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=4096000, gate x12 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+20. <Transition at t=128000, gate x7 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y4 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y5 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y6 -> 0>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=1, gate y7 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y5 -> 0>
+1. <Transition at t=1, gate y8 -> 0>
+2. <Transition at t=1, gate y6 -> 0>
+3. <Transition at t=10, gate z0 -> 1>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=1, gate y7 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2000, gate x1 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=4096000, gate x12 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+19. <Transition at t=2048000, gate x11 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y5 -> 0>
+Swap<Transition at t=2048000, gate x11 -> 0><Transition at t=1, gate y6 -> 0>
+Swap<Transition at t=2048000, gate x11 -> 0><Transition at t=1, gate y7 -> 0>
+Swap<Transition at t=2048000, gate x11 -> 0><Transition at t=2000, gate x1 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y6 -> 0>
+1. <Transition at t=1, gate y8 -> 0>
+2. <Transition at t=1, gate y7 -> 0>
+3. <Transition at t=10, gate z0 -> 1>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=2000, gate x1 -> 0>
+6. <Transition at t=1, gate y9 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=256000, gate x8 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=4096000, gate x12 -> 0>
+18. <Transition at t=8192000, gate x13 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y6 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=1, gate y7 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=1, gate y9 -> 0>
+Swap<Transition at t=8192000, gate x13 -> 0><Transition at t=256000, gate x8 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y7 -> 0>
+1. <Transition at t=1, gate y8 -> 0>
+2. <Transition at t=1, gate y9 -> 0>
+3. <Transition at t=10, gate z0 -> 1>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=2000, gate x1 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate z0 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4000, gate x2 -> 0>
+17. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y7 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y8 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=10, gate z0 -> 1>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=4000, gate z0 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=4000, gate x2 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y8 -> 0>
+1. <Transition at t=10, gate z0 -> 1>
+2. <Transition at t=1, gate y9 -> 0>
+3. <Transition at t=4000, gate z0 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=2000, gate x1 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate x2 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=128000, gate x7 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+16. <Transition at t=4096000, gate x12 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y8 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=1, gate y9 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=2000, gate x1 -> 0>
+Swap<Transition at t=4096000, gate x12 -> 0><Transition at t=128000, gate x7 -> 0>
+--- Queue Start
+0. <Transition at t=1, gate y9 -> 0>
+1. <Transition at t=10, gate z0 -> 1>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate z0 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=128000, gate x7 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=4000, gate x2 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+--- Queue End
+Popped key: <Transition at t=1, gate y9 -> 0>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=10, gate z0 -> 1>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=4000, gate z0 -> 0>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=4000, gate x2 -> 0>
+--- Queue Start
+0. <Transition at t=10, gate z0 -> 1>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2000, gate x1 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=128000, gate x7 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=512000, gate x9 -> 0>
+--- Queue End
+Popped key: <Transition at t=10, gate z0 -> 1>
+Swap<Transition at t=512000, gate x9 -> 0><Transition at t=2000, gate x1 -> 0>
+Swap<Transition at t=512000, gate x9 -> 0><Transition at t=128000, gate x7 -> 0>
+--- Queue Start
+0. <Transition at t=2000, gate x1 -> 0>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=128000, gate x7 -> 0>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=512000, gate x9 -> 0>
+6. <Transition at t=256000, gate x8 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+--- Queue End
+New queue element appended <Transition at t=2010, gate x1 -> 1>
+Swap<Transition at t=256000, gate x8 -> 0><Transition at t=2010, gate x1 -> 1>
+Swap<Transition at t=128000, gate x7 -> 0><Transition at t=2010, gate x1 -> 1>
+--- Queue Start
+0. <Transition at t=2000, gate x1 -> 0>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2010, gate x1 -> 1>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=512000, gate x9 -> 0>
+6. <Transition at t=128000, gate x7 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=256000, gate x8 -> 0>
+--- Queue End
+New queue element appended <Transition at t=11, gate y1 -> 1>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=11, gate y1 -> 1>
+Swap<Transition at t=4000, gate x2 -> 0><Transition at t=11, gate y1 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=11, gate y1 -> 1>
+Swap<Transition at t=2000, gate x1 -> 0><Transition at t=11, gate y1 -> 1>
+--- Queue Start
+0. <Transition at t=11, gate y1 -> 1>
+1. <Transition at t=2000, gate x1 -> 0>
+2. <Transition at t=2010, gate x1 -> 1>
+3. <Transition at t=4000, gate z0 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=512000, gate x9 -> 0>
+6. <Transition at t=128000, gate x7 -> 0>
+7. <Transition at t=4000, gate x2 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=256000, gate x8 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+--- Queue End
+Popped key: <Transition at t=11, gate y1 -> 1>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=2000, gate x1 -> 0>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=4000, gate z0 -> 0>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=4000, gate x2 -> 0>
+--- Queue Start
+0. <Transition at t=2000, gate x1 -> 0>
+1. <Transition at t=4000, gate z0 -> 0>
+2. <Transition at t=2010, gate x1 -> 1>
+3. <Transition at t=4000, gate x2 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=512000, gate x9 -> 0>
+6. <Transition at t=128000, gate x7 -> 0>
+7. <Transition at t=1024000, gate x10 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=256000, gate x8 -> 0>
+--- Queue End
+New queue element appended <Transition at t=12, gate z1 -> 1>
+Swap<Transition at t=1024000, gate x10 -> 0><Transition at t=12, gate z1 -> 1>
+Swap<Transition at t=4000, gate x2 -> 0><Transition at t=12, gate z1 -> 1>
+Swap<Transition at t=4000, gate z0 -> 0><Transition at t=12, gate z1 -> 1>
+Swap<Transition at t=2000, gate x1 -> 0><Transition at t=12, gate z1 -> 1>
+--- Queue Start
+0. <Transition at t=12, gate z1 -> 1>
+1. <Transition at t=2000, gate x1 -> 0>
+2. <Transition at t=2010, gate x1 -> 1>
+3. <Transition at t=4000, gate z0 -> 0>
+4. <Transition at t=16000, gate x4 -> 0>
+5. <Transition at t=512000, gate x9 -> 0>
+6. <Transition at t=128000, gate x7 -> 0>
+7. <Transition at t=4000, gate x2 -> 0>
+8. <Transition at t=8000, gate x3 -> 0>
+9. <Transition at t=64000, gate x6 -> 0>
+10. <Transition at t=32000, gate x5 -> 0>
+11. <Transition at t=2048000, gate x11 -> 0>
+12. <Transition at t=4096000, gate x12 -> 0>
+13. <Transition at t=8192000, gate x13 -> 0>
+14. <Transition at t=256000, gate x8 -> 0>
+15. <Transition at t=1024000, gate x10 -> 0>
+--- Queue End
